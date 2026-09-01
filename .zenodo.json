@@ -1,0 +1,21 @@
+{
+  "title": "Faithful or Silent? Evaluating Retrieval Design and Abstention Behavior in Medical Retrieval-Augmented Generation — code, results, and certified test artifact",
+  "description": "Code, archived experimental outputs, and the certified unanswerable-question test artifact for the paper \"Faithful or Silent? Evaluating Retrieval Design and Abstention Behavior in Medical Retrieval-Augmented Generation\". Includes the held-out-context construction on PubMedQA (250 verifiably unanswerable questions, 244 NLI-certified evidence-free traps), the 13-configuration retrieval grid, raw completions for three model families (25,350 completions), statistics, and full provenance. Code is licensed Apache-2.0; the data (artifact/ and results/) is CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Avuku, Sai Ruthvik Reddy",
+      "orcid": "0009-0006-6282-6213"
+    }
+  ],
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "keywords": [
+    "retrieval-augmented generation",
+    "abstention",
+    "hallucination",
+    "medical question answering",
+    "trustworthy AI",
+    "evaluation benchmark",
+    "PubMedQA"
+  ]
+}
