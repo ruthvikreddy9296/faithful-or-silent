@@ -1,0 +1,3502 @@
+[
+ {
+  "qid": "23792130",
+  "question": "Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?",
+  "gold_label": "yes",
+  "max_entailment": 0.00024322184617631137,
+  "mean_entailment": 0.00016229806351475418,
+  "per_passage": [
+   0.0001456444151699543,
+   0.00010527732956688851,
+   0.0001074201354640536,
+   0.00024322184617631137,
+   0.00020992656936869025
+  ]
+ },
+ {
+  "qid": "17595200",
+  "question": "Is there an intrauterine influence on obesity?",
+  "gold_label": "no",
+  "max_entailment": 0.00042384996777400374,
+  "mean_entailment": 0.0001882638462120667,
+  "per_passage": [
+   4.370208262116648e-05,
+   0.00013065103848930448,
+   0.00023579421394970268,
+   0.00042384996777400374,
+   0.00010732195369200781
+  ]
+ },
+ {
+  "qid": "28196511",
+  "question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?",
+  "gold_label": "no",
+  "max_entailment": 0.00016655628860462457,
+  "mean_entailment": 0.00012919360597152263,
+  "per_passage": [
+   0.00016655628860462457,
+   0.00012528557272162288,
+   0.00012776150833815336,
+   0.00013931274588685483,
+   8.705188520252705e-05
+  ]
+ },
+ {
+  "qid": "29112560",
+  "question": "Is the Distance Worth It?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002509065670892596,
+  "mean_entailment": 0.0001562804391141981,
+  "per_passage": [
+   0.00012869028432760388,
+   9.318176307715476e-05,
+   0.0002509065670892596,
+   0.0001737577113090083,
+   0.00013486586976796389
+  ]
+ },
+ {
+  "qid": "22970993",
+  "question": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+  "gold_label": "yes",
+  "max_entailment": 0.00020570341439452022,
+  "mean_entailment": 0.00015744003758300096,
+  "per_passage": [
+   0.00019977490592282265,
+   9.008784400066361e-05,
+   0.00012039268767694011,
+   0.00017124130681622773,
+   0.00020570341439452022
+  ]
+ },
+ {
+  "qid": "8521557",
+  "question": "The insertion allele of the ACE gene I/D polymorphism. A candidate gene for insulin resistance?",
+  "gold_label": "no",
+  "max_entailment": 0.0010452372953295708,
+  "mean_entailment": 0.0005125688621774316,
+  "per_passage": [
+   0.00043174129677936435,
+   0.0005945160519331694,
+   0.00019530726422090083,
+   0.0002960422425530851,
+   0.0010452372953295708
+  ]
+ },
+ {
+  "qid": "28027677",
+  "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+  "gold_label": "no",
+  "max_entailment": 0.0008949438924901187,
+  "mean_entailment": 0.0003521077160257846,
+  "per_passage": [
+   0.0008949438924901187,
+   0.00027889921329915524,
+   0.00017782747454475611,
+   0.00023998247343115509,
+   0.0001688854390522465
+  ]
+ },
+ {
+  "qid": "24666444",
+  "question": "Is there any evidence of a \"July effect\" in patients undergoing major cancer surgery?",
+  "gold_label": "no",
+  "max_entailment": 0.0063841515220701694,
+  "mean_entailment": 0.0020376634784042835,
+  "per_passage": [
+   0.0001169175811810419,
+   8.41017099446617e-05,
+   0.0063841515220701694,
+   0.003501589410007,
+   0.00010155754716834053
+  ]
+ },
+ {
+  "qid": "17621202",
+  "question": "Does shaving the incision site increase the infection rate after spinal surgery?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00040921990876086056,
+  "mean_entailment": 0.00031867908546701074,
+  "per_passage": [
+   0.00025745289167389274,
+   0.0004069181450176984,
+   0.00023929032613523304,
+   0.00040921990876086056,
+   0.00028051421395502985
+  ]
+ },
+ {
+  "qid": "21880023",
+  "question": "Does exercise during pregnancy prevent postnatal depression?",
+  "gold_label": "no",
+  "max_entailment": 0.008285322226583958,
+  "mean_entailment": 0.0018528548534959555,
+  "per_passage": [
+   0.00040600576903671026,
+   0.00016479518671985716,
+   0.0002960682613775134,
+   0.008285322226583958,
+   0.0001120826491387561
+  ]
+ },
+ {
+  "qid": "25691513",
+  "question": "Do communication disorders extend to musical messages?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005838479846715927,
+  "mean_entailment": 0.0004412456473801285,
+  "per_passage": [
+   0.0005302126519382,
+   0.00028123913216404617,
+   0.0005838479846715927,
+   0.00039878636016510427,
+   0.00041214210796169937
+  ]
+ },
+ {
+  "qid": "16909975",
+  "question": "Can dose reduction to one parotid gland prevent xerostomia?",
+  "gold_label": "yes",
+  "max_entailment": 0.004199514631181955,
+  "mean_entailment": 0.001390187768265605,
+  "per_passage": [
+   0.0002796859771478921,
+   0.0005066784215159714,
+   0.004199514631181955,
+   0.0011717593297362328,
+   0.0007932999869808555
+  ]
+ },
+ {
+  "qid": "20156655",
+  "question": "Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?",
+  "gold_label": "yes",
+  "max_entailment": 0.0025196310598403215,
+  "mean_entailment": 0.0008767612162046134,
+  "per_passage": [
+   0.0004120674275327474,
+   0.0025196310598403215,
+   0.0010773198446258903,
+   0.00010414766438771039,
+   0.0002706406230572611
+  ]
+ },
+ {
+  "qid": "10808977",
+  "question": "Can tailored interventions increase mammography use among HMO women?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002099584962707013,
+  "mean_entailment": 0.0001940511865541339,
+  "per_passage": [
+   0.0001827460218919441,
+   0.00019413672271184623,
+   0.00019421294564381242,
+   0.0002099584962707013,
+   0.0001892017899081111
+  ]
+ },
+ {
+  "qid": "19142546",
+  "question": "Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?",
+  "gold_label": "no",
+  "max_entailment": 0.00012611817510332912,
+  "mean_entailment": 7.881641067797318e-05,
+  "per_passage": [
+   7.922721124486998e-05,
+   4.0342245483770967e-05,
+   8.719998004380614e-05,
+   6.119444879004732e-05,
+   0.00012611817510332912
+  ]
+ },
+ {
+  "qid": "25819796",
+  "question": "Literacy after cerebral hemispherectomy: Can the isolated right hemisphere read?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003076432622037828,
+  "mean_entailment": 0.00023811988648958504,
+  "per_passage": [
+   0.0003076432622037828,
+   0.0002291546406922862,
+   0.0002747167891357094,
+   0.00016627174045424908,
+   0.00021281304361764342
+  ]
+ },
+ {
+  "qid": "18274917",
+  "question": "Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?",
+  "gold_label": "no",
+  "max_entailment": 0.0002374925825279206,
+  "mean_entailment": 0.00016633163613732904,
+  "per_passage": [
+   0.00010759724682429805,
+   0.0002374925825279206,
+   0.00019255737424828112,
+   0.00016154258628375828,
+   0.00013246845628600568
+  ]
+ },
+ {
+  "qid": "22324545",
+  "question": "Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?",
+  "gold_label": "yes",
+  "max_entailment": 1.2555502507893834e-05,
+  "mean_entailment": 8.606808478361927e-06,
+  "per_passage": [
+   6.648232101724716e-06,
+   6.504476004920434e-06,
+   8.642470675113145e-06,
+   1.2555502507893834e-05,
+   8.683366104378365e-06
+  ]
+ },
+ {
+  "qid": "17062234",
+  "question": "Surgical management of the atherosclerotic ascending aorta: is endoaortic balloon occlusion safe?",
+  "gold_label": "no",
+  "max_entailment": 0.004344324581325054,
+  "mean_entailment": 0.0013192183105275035,
+  "per_passage": [
+   0.0001452579745091498,
+   8.671158138895407e-05,
+   0.0002839851949829608,
+   0.0017358122859150171,
+   0.004344324581325054
+  ]
+ },
+ {
+  "qid": "15125825",
+  "question": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006533141131512821,
+  "mean_entailment": 0.00028095641755498946,
+  "per_passage": [
+   0.00032883830135688186,
+   0.0002658841840457171,
+   4.789719241671264e-05,
+   0.00010884831135626882,
+   0.0006533141131512821
+  ]
+ },
+ {
+  "qid": "21756515",
+  "question": "Does solid culture for tuberculosis influence clinical decision making in India?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0007409013924188912,
+  "mean_entailment": 0.0004610865726135671,
+  "per_passage": [
+   0.00017828111595008522,
+   0.000545493618119508,
+   0.0003151040873490274,
+   0.0007409013924188912,
+   0.000525652663782239
+  ]
+ },
+ {
+  "qid": "19711462",
+  "question": "Standardizing care in medical oncology: are Web-based systems the answer?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00035370353725738823,
+  "mean_entailment": 0.00028696455410681665,
+  "per_passage": [
+   0.0003007818595506251,
+   0.0002991934888996184,
+   0.0002276627201354131,
+   0.00025348123745061457,
+   0.00035370353725738823
+  ]
+ },
+ {
+  "qid": "23677366",
+  "question": "Do oblique views add value in the diagnosis of spondylolysis in adolescents?",
+  "gold_label": "no",
+  "max_entailment": 0.0002914174401666969,
+  "mean_entailment": 0.00012399507977534086,
+  "per_passage": [
+   7.105473196133971e-05,
+   8.78244245541282e-05,
+   0.0002914174401666969,
+   4.879214975517243e-05,
+   0.00012088665243936703
+  ]
+ },
+ {
+  "qid": "16216859",
+  "question": "Does a well developed collateral circulation predispose to restenosis after percutaneous coronary intervention?",
+  "gold_label": "no",
+  "max_entailment": 0.008272254839539528,
+  "mean_entailment": 0.002042433712631464,
+  "per_passage": [
+   0.00026313940179534256,
+   0.0002824509283527732,
+   2.1762189135188237e-05,
+   0.008272254839539528,
+   0.0013725616736337543
+  ]
+ },
+ {
+  "qid": "22644412",
+  "question": "Hepatic arterial embolization for unresectable hepatocellular carcinomas: do technical factors affect prognosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.970445454120636,
+  "mean_entailment": 0.194947749376297,
+  "per_passage": [
+   0.970445454120636,
+   0.0002200244925916195,
+   0.0008891227771528065,
+   0.001716037280857563,
+   0.0014681953471153975
+  ]
+ },
+ {
+  "qid": "18399830",
+  "question": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?",
+  "gold_label": "yes",
+  "max_entailment": 8.660613821120933e-05,
+  "mean_entailment": 5.780370702268556e-05,
+  "per_passage": [
+   4.232964420225471e-05,
+   4.751543019665405e-05,
+   8.660613821120933e-05,
+   6.456895789597183e-05,
+   4.7998350055422634e-05
+  ]
+ },
+ {
+  "qid": "25891436",
+  "question": "Is serum total bilirubin useful to differentiate cardioembolic stroke from other stroke subtypes?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003900925803463906,
+  "mean_entailment": 0.00017727818340063095,
+  "per_passage": [
+   0.00015110292588360608,
+   8.322214853251353e-05,
+   0.0003900925803463906,
+   0.00015601205814164132,
+   0.000105961189547088
+  ]
+ },
+ {
+  "qid": "24315783",
+  "question": "Aripiprazole: a new risk factor for pathological gambling?",
+  "gold_label": "yes",
+  "max_entailment": 0.00031945822411216795,
+  "mean_entailment": 0.00026393478037789464,
+  "per_passage": [
+   0.0002415063208900392,
+   0.00024379731621593237,
+   0.00031945822411216795,
+   0.0002580743166618049,
+   0.00025683752028271556
+  ]
+ },
+ {
+  "qid": "7860319",
+  "question": "Measuring hospital mortality rates: are 30-day data enough?",
+  "gold_label": "yes",
+  "max_entailment": 0.00045640714233741164,
+  "mean_entailment": 0.00021239681518636644,
+  "per_passage": [
+   0.0003027468337677419,
+   0.00016619199595879763,
+   3.608544648159295e-05,
+   0.00010055273014586419,
+   0.00045640714233741164
+  ]
+ },
+ {
+  "qid": "21745056",
+  "question": "Global Longitudinal Pathway: has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?",
+  "gold_label": "yes",
+  "max_entailment": 0.00010838749585673213,
+  "mean_entailment": 6.492922693723813e-05,
+  "per_passage": [
+   5.9411031543277204e-05,
+   6.485114863608032e-05,
+   0.00010838749585673213,
+   7.244562584673986e-05,
+   1.9550809156498872e-05
+  ]
+ },
+ {
+  "qid": "26485091",
+  "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+  "gold_label": "no",
+  "max_entailment": 0.12694571912288666,
+  "mean_entailment": 0.02545795775949955,
+  "per_passage": [
+   0.00011060661199735478,
+   2.3159665943239816e-05,
+   0.12694571912288666,
+   8.438860095338896e-05,
+   0.0001259209238924086
+  ]
+ },
+ {
+  "qid": "26104852",
+  "question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?",
+  "gold_label": "yes",
+  "max_entailment": 0.000931310816667974,
+  "mean_entailment": 0.0004213353095110506,
+  "per_passage": [
+   0.0002121246507158503,
+   0.0004112604074180126,
+   0.000931310816667974,
+   0.000539938744623214,
+   1.2041896297887433e-05
+  ]
+ },
+ {
+  "qid": "26708803",
+  "question": "Treatment of contralateral hydrocele in neonatal testicular torsion: Is less more?",
+  "gold_label": "maybe",
+  "max_entailment": 0.7805531620979309,
+  "mean_entailment": 0.17108358442783356,
+  "per_passage": [
+   0.01028544269502163,
+   0.02398902364075184,
+   0.009832547977566719,
+   0.7805531620979309,
+   0.030757714062929153
+  ]
+ },
+ {
+  "qid": "18843057",
+  "question": "Can you deliver accurate tidal volume by manual resuscitator?",
+  "gold_label": "no",
+  "max_entailment": 0.0005636000423692167,
+  "mean_entailment": 0.0002135379472747445,
+  "per_passage": [
+   0.0005636000423692167,
+   8.222906035371125e-05,
+   0.00013383421173784882,
+   0.00017887527064885944,
+   0.00010915114398812875
+  ]
+ },
+ {
+  "qid": "22720085",
+  "question": "Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007571062888018787,
+  "mean_entailment": 0.0003888950159307569,
+  "per_passage": [
+   0.00029459595680236816,
+   0.00019891007104888558,
+   0.0007571062888018787,
+   0.0004820541653316468,
+   0.00021180862677283585
+  ]
+ },
+ {
+  "qid": "25446909",
+  "question": "Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?",
+  "gold_label": "yes",
+  "max_entailment": 0.00021662769722752273,
+  "mean_entailment": 0.00013358602882362902,
+  "per_passage": [
+   0.00014993528020568192,
+   0.00021662769722752273,
+   0.00012162217899458483,
+   0.00010543580719968304,
+   7.430920959450305e-05
+  ]
+ },
+ {
+  "qid": "15954832",
+  "question": "Is minilaparoscopic inguinal hernia repair feasible?",
+  "gold_label": "yes",
+  "max_entailment": 0.00020197850244585425,
+  "mean_entailment": 0.00011156790424138308,
+  "per_passage": [
+   9.099596354644746e-05,
+   9.212407894665375e-05,
+   6.471142114605755e-05,
+   0.00010802959150169045,
+   0.00020197850244585425
+  ]
+ },
+ {
+  "qid": "11799314",
+  "question": "Is external palliative radiotherapy for gallbladder carcinoma effective?",
+  "gold_label": "yes",
+  "max_entailment": 0.00014212152746040374,
+  "mean_entailment": 9.842232248047367e-05,
+  "per_passage": [
+   0.00014212152746040374,
+   4.811646431335248e-05,
+   7.68749087001197e-05,
+   0.00010627810843288898,
+   0.00011872061440953985
+  ]
+ },
+ {
+  "qid": "18800356",
+  "question": "The FOOTSTEP self-management foot care programme: are rheumatoid arthritis patients physically able to participate?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0026283522602170706,
+  "mean_entailment": 0.0006587760290130973,
+  "per_passage": [
+   0.0026283522602170706,
+   8.294187864521518e-05,
+   9.145955846179277e-05,
+   0.0003364509902894497,
+   0.00015467529010493308
+  ]
+ },
+ {
+  "qid": "25571931",
+  "question": "Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00023692884133197367,
+  "mean_entailment": 8.978140249382704e-05,
+  "per_passage": [
+   6.99689844623208e-05,
+   0.00023692884133197367,
+   6.58907592878677e-05,
+   2.200376366090495e-05,
+   5.4114640079205856e-05
+  ]
+ },
+ {
+  "qid": "27216167",
+  "question": "Gynecological cancer alarm symptoms: is contact with specialist care associated with lifestyle and socioeconomic status?",
+  "gold_label": "yes",
+  "max_entailment": 0.00015225009701680392,
+  "mean_entailment": 0.00012390375195536762,
+  "per_passage": [
+   0.00012472110392991453,
+   8.646731293993071e-05,
+   0.0001337079593213275,
+   0.0001223722647409886,
+   0.00015225009701680392
+  ]
+ },
+ {
+  "qid": "27690714",
+  "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+  "gold_label": "yes",
+  "max_entailment": 0.005382373929023743,
+  "mean_entailment": 0.0019238770473748446,
+  "per_passage": [
+   0.005382373929023743,
+   0.0026891380548477173,
+   0.0008380989311262965,
+   0.0001432077115168795,
+   0.0005665665376000106
+  ]
+ },
+ {
+  "qid": "28407529",
+  "question": "Resection of colorectal liver metastases after second-line chemotherapy: is it worthwhile?",
+  "gold_label": "no",
+  "max_entailment": 0.001510955160483718,
+  "mean_entailment": 0.0012637494364753366,
+  "per_passage": [
+   0.001510955160483718,
+   0.0013247044989839196,
+   0.0011241534957662225,
+   0.0011261625913903117,
+   0.0012327713193371892
+  ]
+ },
+ {
+  "qid": "18472368",
+  "question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006013995734974742,
+  "mean_entailment": 0.0002888233866542578,
+  "per_passage": [
+   0.00017045685672201216,
+   0.0003246536653023213,
+   0.0006013995734974742,
+   0.00017084559658542275,
+   0.00017676125571597368
+  ]
+ },
+ {
+  "qid": "24622801",
+  "question": "Does implant coating with antibacterial-loaded hydrogel reduce bacterial colonization and biofilm formation in vitro?",
+  "gold_label": "yes",
+  "max_entailment": 0.0028330006171017885,
+  "mean_entailment": 0.0010880018817260861,
+  "per_passage": [
+   0.00036309767165221274,
+   0.0011105308076366782,
+   0.0008277394226752222,
+   0.0003056408022530377,
+   0.0028330006171017885
+  ]
+ },
+ {
+  "qid": "19459018",
+  "question": "Very high serum CA 19-9 levels: a contraindication to pancreaticoduodenectomy?",
+  "gold_label": "no",
+  "max_entailment": 0.005785604473203421,
+  "mean_entailment": 0.003029461484402418,
+  "per_passage": [
+   0.0014772142749279737,
+   0.0018994671991094947,
+   0.004391789902001619,
+   0.0015932314563542604,
+   0.005785604473203421
+  ]
+ },
+ {
+  "qid": "20608141",
+  "question": "PSA repeatedly fluctuating levels are reassuring enough to avoid biopsy?",
+  "gold_label": "no",
+  "max_entailment": 0.0019311675569042563,
+  "mean_entailment": 0.0009836347308009863,
+  "per_passage": [
+   0.001141801942139864,
+   0.00016582889657001942,
+   0.0016635305946692824,
+   1.584457822900731e-05,
+   0.0019311675569042563
+  ]
+ },
+ {
+  "qid": "19419587",
+  "question": "Sternal plating for primary and secondary sternal closure; can it improve sternal stability?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007558706565760076,
+  "mean_entailment": 0.00032246284536086023,
+  "per_passage": [
+   0.0007558706565760076,
+   0.00019078371406067163,
+   0.000323383545037359,
+   0.00023403119121212512,
+   0.00010824522178154439
+  ]
+ },
+ {
+  "qid": "18235194",
+  "question": "Is a specialised training of phonological awareness indicated in every preschool child?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0011870709713548422,
+  "mean_entailment": 0.0006529967067763209,
+  "per_passage": [
+   0.0003253646718803793,
+   0.0003809882327914238,
+   0.0011870709713548422,
+   0.0009831491624936461,
+   0.0003884105826728046
+  ]
+ },
+ {
+  "qid": "23992109",
+  "question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?",
+  "gold_label": "yes",
+  "max_entailment": 0.00045761431101709604,
+  "mean_entailment": 0.0003048584912903607,
+  "per_passage": [
+   0.00010973949974868447,
+   0.0002999083953909576,
+   0.00023308416712097824,
+   0.00045761431101709604,
+   0.00042394609772600234
+  ]
+ },
+ {
+  "qid": "18607272",
+  "question": "Body perception: do parents, their children, and their children's physicians perceive body image differently?",
+  "gold_label": "yes",
+  "max_entailment": 0.00027776049682870507,
+  "mean_entailment": 0.0002077145327348262,
+  "per_passage": [
+   0.00025927447131834924,
+   0.00018649676349014044,
+   0.00027776049682870507,
+   0.0001830590917961672,
+   0.0001319818402407691
+  ]
+ },
+ {
+  "qid": "19156007",
+  "question": "Can clinicians use the PHQ-9 to assess depression in people with vision loss?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002554860257077962,
+  "mean_entailment": 0.00012029955541947857,
+  "per_passage": [
+   1.7297157683060504e-05,
+   0.0002554860257077962,
+   7.530693983426318e-05,
+   5.144180977367796e-05,
+   0.0002019658131757751
+  ]
+ },
+ {
+  "qid": "27217036",
+  "question": "Neoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007432288257405162,
+  "mean_entailment": 0.0004455057787708938,
+  "per_passage": [
+   0.0007432288257405162,
+   0.0001333144900854677,
+   0.0002424003614578396,
+   0.0005478187231346965,
+   0.0005607664934359491
+  ]
+ },
+ {
+  "qid": "19100463",
+  "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?",
+  "gold_label": "yes",
+  "max_entailment": 0.000376631214749068,
+  "mean_entailment": 0.00020110097830183804,
+  "per_passage": [
+   0.0001351566897938028,
+   0.00013363199832383543,
+   0.00013076850154902786,
+   0.000376631214749068,
+   0.00022931647254154086
+  ]
+ },
+ {
+  "qid": "22428608",
+  "question": "Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006958136800676584,
+  "mean_entailment": 0.00039067916804924607,
+  "per_passage": [
+   0.000299409672152251,
+   0.0006958136800676584,
+   0.00027385278372094035,
+   0.00014002351963426918,
+   0.0005442959372885525
+  ]
+ },
+ {
+  "qid": "17502203",
+  "question": "Cholestasis associated with small bowel atresia: do we always need to investigate?",
+  "gold_label": "no",
+  "max_entailment": 0.00031374520040117204,
+  "mean_entailment": 0.0001665406598476693,
+  "per_passage": [
+   0.0001282439916394651,
+   0.0001462700020056218,
+   0.00011238549632253125,
+   0.00031374520040117204,
+   0.00013205863069742918
+  ]
+ },
+ {
+  "qid": "24142776",
+  "question": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?",
+  "gold_label": "yes",
+  "max_entailment": 0.00396215682849288,
+  "mean_entailment": 0.0015720583032816648,
+  "per_passage": [
+   0.00396215682849288,
+   0.0010881827911362052,
+   0.0013315959367901087,
+   0.0007464713416993618,
+   0.0007318845600821078
+  ]
+ },
+ {
+  "qid": "17355582",
+  "question": "Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?",
+  "gold_label": "yes",
+  "max_entailment": 0.00024789429153315723,
+  "mean_entailment": 0.00013847196532879025,
+  "per_passage": [
+   0.00024789429153315723,
+   0.00013804968330077827,
+   9.415770182386041e-05,
+   0.0001133469631895423,
+   9.891119407257065e-05
+  ]
+ },
+ {
+  "qid": "25371231",
+  "question": "Is vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00028655497590079904,
+  "mean_entailment": 0.00022201682440936565,
+  "per_passage": [
+   0.00017352687427774072,
+   0.00022762699518352747,
+   0.00028655497590079904,
+   0.00023209117352962494,
+   0.0001902841031551361
+  ]
+ },
+ {
+  "qid": "28143468",
+  "question": "Are performance measurement systems useful?",
+  "gold_label": "yes",
+  "max_entailment": 0.0004852128040511161,
+  "mean_entailment": 0.00035055860644206405,
+  "per_passage": [
+   0.00041122405673377216,
+   0.0001933837338583544,
+   0.0004852128040511161,
+   0.0004243958683218807,
+   0.0002385765837971121
+  ]
+ },
+ {
+  "qid": "21946341",
+  "question": "Is there a relationship between complex fractionated atrial electrograms recorded during atrial fibrillation and sinus rhythm fractionation?",
+  "gold_label": "no",
+  "max_entailment": 0.0001388292439514771,
+  "mean_entailment": 9.268456051358953e-05,
+  "per_passage": [
+   0.00010328603093512356,
+   7.340701995417476e-05,
+   7.76659362600185e-05,
+   7.023457146715373e-05,
+   0.0001388292439514771
+  ]
+ },
+ {
+  "qid": "10749257",
+  "question": "Has the mammography quality standards act affected the mammography quality in North Carolina?",
+  "gold_label": "yes",
+  "max_entailment": 0.000164088312885724,
+  "mean_entailment": 0.00012438205885700881,
+  "per_passage": [
+   0.00012240342039149255,
+   0.000164088312885724,
+   0.00011771308345487341,
+   0.00010985017433995381,
+   0.0001078553032130003
+  ]
+ },
+ {
+  "qid": "22108230",
+  "question": "Is the fibronectin-aggrecan complex present in cervical disk disease?",
+  "gold_label": "yes",
+  "max_entailment": 0.00012173008144600317,
+  "mean_entailment": 8.590263314545155e-05,
+  "per_passage": [
+   0.00010993888281518593,
+   0.00012173008144600317,
+   2.3702923499513417e-05,
+   7.024165824986994e-05,
+   0.00010389961971668527
+  ]
+ },
+ {
+  "qid": "12407608",
+  "question": "Does ultrasound imaging before puncture facilitate internal jugular vein cannulation?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0003576264134608209,
+  "mean_entailment": 0.00017552808276377618,
+  "per_passage": [
+   0.00015356029325630516,
+   0.0003576264134608209,
+   0.00011363934754626825,
+   8.934844663599506e-05,
+   0.00016346592747140676
+  ]
+ },
+ {
+  "qid": "17914515",
+  "question": "Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?",
+  "gold_label": "yes",
+  "max_entailment": 0.00046713915071450174,
+  "mean_entailment": 0.0003315247886348516,
+  "per_passage": [
+   0.00046713915071450174,
+   0.00042730782297439873,
+   0.00039999245200306177,
+   0.00030256863101385534,
+   6.06157882430125e-05
+  ]
+ },
+ {
+  "qid": "20602101",
+  "question": "Is hypoalbuminemia an independent prognostic factor in patients with gastric cancer?",
+  "gold_label": "no",
+  "max_entailment": 0.9900898337364197,
+  "mean_entailment": 0.601357102394104,
+  "per_passage": [
+   0.9895484447479248,
+   0.9900898337364197,
+   0.0086111044511199,
+   0.029307354241609573,
+   0.9892287254333496
+  ]
+ },
+ {
+  "qid": "16195477",
+  "question": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0013977766502648592,
+  "mean_entailment": 0.00039631640538573265,
+  "per_passage": [
+   0.00011980979616055265,
+   5.0859398470493034e-05,
+   0.0002860509557649493,
+   0.0013977766502648592,
+   0.00012708533904515207
+  ]
+ },
+ {
+  "qid": "24359102",
+  "question": "Two-year follow-up survey of patients with allergic contact dermatitis from an occupational cohort: is the prognosis dependent on the omnipresence of the allergen?",
+  "gold_label": "yes",
+  "max_entailment": 0.00018988789815921336,
+  "mean_entailment": 0.00012665207032114267,
+  "per_passage": [
+   0.00018988789815921336,
+   6.03779117227532e-05,
+   0.0001498532947152853,
+   6.887983909109607e-05,
+   0.00016426142246928066
+  ]
+ },
+ {
+  "qid": "17312514",
+  "question": "Does quilting suture prevent seroma in abdominoplasty?",
+  "gold_label": "yes",
+  "max_entailment": 0.00856806430965662,
+  "mean_entailment": 0.0018508669454604387,
+  "per_passage": [
+   0.00022390970843844116,
+   8.723037171876058e-05,
+   7.945036486489698e-05,
+   0.00856806430965662,
+   0.00029568004538305104
+  ]
+ },
+ {
+  "qid": "18222909",
+  "question": "Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?",
+  "gold_label": "yes",
+  "max_entailment": 0.00019345004693605006,
+  "mean_entailment": 0.0001091188023565337,
+  "per_passage": [
+   4.022526627522893e-05,
+   0.00010352163371862844,
+   0.00014347255637403578,
+   6.492447573691607e-05,
+   0.00019345004693605006
+  ]
+ },
+ {
+  "qid": "9381529",
+  "question": "Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?",
+  "gold_label": "yes",
+  "max_entailment": 0.005653172265738249,
+  "mean_entailment": 0.001977861626073718,
+  "per_passage": [
+   0.0010536127956584096,
+   0.0011810774449259043,
+   0.005653172265738249,
+   0.0010581027017906308,
+   0.0009433431550860405
+  ]
+ },
+ {
+  "qid": "15388567",
+  "question": "Are sports medicine journals relevant and applicable to practitioners and athletes?",
+  "gold_label": "no",
+  "max_entailment": 0.0010693048825487494,
+  "mean_entailment": 0.0005648729857057333,
+  "per_passage": [
+   0.0007994747720658779,
+   0.00015698412607889622,
+   0.0010693048825487494,
+   0.0004200081748422235,
+   0.000378593074856326
+  ]
+ },
+ {
+  "qid": "19542542",
+  "question": "Is there a uniform basal endometrial gene expression profile during the implantation window in women who became pregnant in a subsequent ICSI cycle?",
+  "gold_label": "maybe",
+  "max_entailment": 0.000635769625660032,
+  "mean_entailment": 0.00036695695598609746,
+  "per_passage": [
+   0.0003171235148329288,
+   0.0004354446427896619,
+   0.000635769625660032,
+   0.00019938053446821868,
+   0.00024706649128347635
+  ]
+ },
+ {
+  "qid": "22023714",
+  "question": "Does delivery mode affect women's postpartum quality of life in rural China?",
+  "gold_label": "no",
+  "max_entailment": 0.0003213181043975055,
+  "mean_entailment": 0.00015812949277460575,
+  "per_passage": [
+   2.4956496417871676e-05,
+   0.00021308228315319866,
+   9.780836262507364e-05,
+   0.00013348220090847462,
+   0.0003213181043975055
+  ]
+ },
+ {
+  "qid": "15703931",
+  "question": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+  "gold_label": "no",
+  "max_entailment": 0.0010438243625685573,
+  "mean_entailment": 0.000495877000503242,
+  "per_passage": [
+   0.00023348690592683852,
+   0.00023997917014639825,
+   0.00016746143228374422,
+   0.0007946331752464175,
+   0.0010438243625685573
+  ]
+ },
+ {
+  "qid": "24614851",
+  "question": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0014067706651985645,
+  "mean_entailment": 0.0005769796553067863,
+  "per_passage": [
+   0.0007395327556878328,
+   0.00014196091797202826,
+   0.0005137075204402208,
+   0.0014067706651985645,
+   8.292631537187845e-05
+  ]
+ },
+ {
+  "qid": "25488308",
+  "question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?",
+  "gold_label": "no",
+  "max_entailment": 0.0017853275639936328,
+  "mean_entailment": 0.00043469079537317157,
+  "per_passage": [
+   0.00011258890299359336,
+   0.0001208508329000324,
+   3.220630969735794e-05,
+   0.0017853275639936328,
+   0.0001224805018864572
+  ]
+ },
+ {
+  "qid": "25810292",
+  "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?",
+  "gold_label": "yes",
+  "max_entailment": 0.00013439786562230438,
+  "mean_entailment": 9.342181874671951e-05,
+  "per_passage": [
+   7.947644189698622e-05,
+   0.0001051296349032782,
+   8.414427429670468e-05,
+   0.00013439786562230438,
+   6.3960840634536e-05
+  ]
+ },
+ {
+  "qid": "25280365",
+  "question": "Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?",
+  "gold_label": "yes",
+  "max_entailment": 0.000249692500801757,
+  "mean_entailment": 0.00021064470638521016,
+  "per_passage": [
+   0.00022813524992670864,
+   0.00017376919277012348,
+   0.000249692500801757,
+   0.0002174772380385548,
+   0.0001841494085965678
+  ]
+ },
+ {
+  "qid": "24973051",
+  "question": "Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?",
+  "gold_label": "no",
+  "max_entailment": 0.0012010408099740744,
+  "mean_entailment": 0.0007950637373141944,
+  "per_passage": [
+   0.0009160761837847531,
+   0.0012010408099740744,
+   0.0006307033472694457,
+   0.0007156693609431386,
+   0.0005118291010148823
+  ]
+ },
+ {
+  "qid": "17919952",
+  "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+  "gold_label": "yes",
+  "max_entailment": 0.00030507901101373136,
+  "mean_entailment": 0.000200920389033854,
+  "per_passage": [
+   0.00030507901101373136,
+   0.00016987364506348968,
+   0.0001559681841172278,
+   0.00019944176892749965,
+   0.0001742392487358302
+  ]
+ },
+ {
+  "qid": "12163782",
+  "question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?",
+  "gold_label": "yes",
+  "max_entailment": 0.0004292497760616243,
+  "mean_entailment": 0.0002259387110825628,
+  "per_passage": [
+   0.00010533261229284108,
+   0.00018002519209403545,
+   4.454795634956099e-05,
+   0.00037053809501230717,
+   0.0004292497760616243
+  ]
+ },
+ {
+  "qid": "27928673",
+  "question": "Do ART patients face higher C-section rates during their stage of delivery?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006016908446326852,
+  "mean_entailment": 0.00019960901408921927,
+  "per_passage": [
+   8.390958100790158e-05,
+   0.0001325895864283666,
+   0.00011826533591374755,
+   6.158968608360738e-05,
+   0.0006016908446326852
+  ]
+ },
+ {
+  "qid": "20401819",
+  "question": "Is ultrasound equal to X-ray in pediatric fracture diagnosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0026799142360687256,
+  "mean_entailment": 0.001725384034216404,
+  "per_passage": [
+   0.0026799142360687256,
+   0.00027780584059655666,
+   0.002360656624659896,
+   0.0020123315043747425,
+   0.0012962123146280646
+  ]
+ },
+ {
+  "qid": "23449952",
+  "question": "Contrast-enhanced MR imaging of hand and finger joints in patients with early rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for assessing synovial enhancement at 3 T?",
+  "gold_label": "no",
+  "max_entailment": 0.000629762711469084,
+  "mean_entailment": 0.00032745598582550883,
+  "per_passage": [
+   0.0002718212781473994,
+   0.00042713069706223905,
+   0.00012860294373240322,
+   0.000629762711469084,
+   0.00017996221140492707
+  ]
+ },
+ {
+  "qid": "10473855",
+  "question": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?",
+  "gold_label": "no",
+  "max_entailment": 0.15117670595645905,
+  "mean_entailment": 0.05555851012468338,
+  "per_passage": [
+   0.07289525866508484,
+   0.0471591092646122,
+   0.0038161901757121086,
+   0.0027452909853309393,
+   0.15117670595645905
+  ]
+ },
+ {
+  "qid": "21166749",
+  "question": "Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?",
+  "gold_label": "no",
+  "max_entailment": 0.0006269937730394304,
+  "mean_entailment": 0.00031643343390896916,
+  "per_passage": [
+   0.00042565836338326335,
+   0.00023166708706412464,
+   0.0006269937730394304,
+   0.00022074497246649116,
+   7.710292265983298e-05
+  ]
+ },
+ {
+  "qid": "9767546",
+  "question": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003573689900804311,
+  "mean_entailment": 0.0001607868616702035,
+  "per_passage": [
+   0.0001374821295030415,
+   0.00016851333202794194,
+   9.397068788530305e-05,
+   4.6599165216321126e-05,
+   0.0003573689900804311
+  ]
+ },
+ {
+  "qid": "26536001",
+  "question": "Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?",
+  "gold_label": "no",
+  "max_entailment": 0.0008284581126645207,
+  "mean_entailment": 0.00022745129535906017,
+  "per_passage": [
+   0.0008284581126645207,
+   8.254656131612137e-05,
+   6.533851410495117e-05,
+   9.247048728866503e-05,
+   6.844290328444913e-05
+  ]
+ },
+ {
+  "qid": "20082356",
+  "question": "Should direct mesocolon invasion be included in T4 for the staging of gastric cancer?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0013053982984274626,
+  "mean_entailment": 0.0005742014618590474,
+  "per_passage": [
+   0.0004038409679196775,
+   0.00026915661874227226,
+   0.0013053982984274626,
+   0.0002825027040671557,
+   0.0006101085455156863
+  ]
+ },
+ {
+  "qid": "24191126",
+  "question": "Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005042464472353458,
+  "mean_entailment": 0.0002101391728501767,
+  "per_passage": [
+   0.0002857710642274469,
+   0.0005042464472353458,
+   0.00011010684829670936,
+   8.023902773857117e-05,
+   7.03323821653612e-05
+  ]
+ },
+ {
+  "qid": "21550158",
+  "question": "Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?",
+  "gold_label": "yes",
+  "max_entailment": 0.00494438735768199,
+  "mean_entailment": 0.0016229456523433328,
+  "per_passage": [
+   0.0005320277996361256,
+   0.0011714015854522586,
+   0.00494438735768199,
+   0.0009346305159851909,
+   0.0005322810611687601
+  ]
+ },
+ {
+  "qid": "17306983",
+  "question": "Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002104750310536474,
+  "mean_entailment": 0.00015770894242450595,
+  "per_passage": [
+   0.00010597608343232423,
+   0.0001462456420995295,
+   0.0002104750310536474,
+   0.00019846399663947523,
+   0.0001273839734494686
+  ]
+ },
+ {
+  "qid": "18435678",
+  "question": "Kell alloimmunization in pregnancy: associated with fetal thrombocytopenia?",
+  "gold_label": "no",
+  "max_entailment": 0.002747193444520235,
+  "mean_entailment": 0.0019391620298847556,
+  "per_passage": [
+   0.0006425163010135293,
+   0.0024304131511598825,
+   0.002106937114149332,
+   0.002747193444520235,
+   0.001768750254996121
+  ]
+ },
+ {
+  "qid": "15774570",
+  "question": "Does increased use of private health care reduce the demand for NHS care?",
+  "gold_label": "no",
+  "max_entailment": 0.0001998248480958864,
+  "mean_entailment": 0.0001160071260528639,
+  "per_passage": [
+   0.0001230863417731598,
+   6.427631888072938e-05,
+   0.00012212090950924903,
+   7.07271829014644e-05,
+   0.0001998248480958864
+  ]
+ },
+ {
+  "qid": "22365295",
+  "question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?",
+  "gold_label": "no",
+  "max_entailment": 0.0009131489787250757,
+  "mean_entailment": 0.00036481028655543923,
+  "per_passage": [
+   7.912723231129348e-05,
+   0.0009131489787250757,
+   7.001420453889295e-05,
+   0.00024165658396668732,
+   0.0005201045423746109
+  ]
+ },
+ {
+  "qid": "19444061",
+  "question": "Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?",
+  "gold_label": "no",
+  "max_entailment": 0.0011821611551567912,
+  "mean_entailment": 0.0004638821701519191,
+  "per_passage": [
+   0.000434689165558666,
+   0.00017448967264499515,
+   0.00013198205851949751,
+   0.0003960887261200696,
+   0.0011821611551567912
+  ]
+ },
+ {
+  "qid": "21398266",
+  "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003960160829592496,
+  "mean_entailment": 0.00023826812685001642,
+  "per_passage": [
+   0.0001621074479771778,
+   0.0002383430110057816,
+   0.0001032324435072951,
+   0.0003960160829592496,
+   0.00029164174338802695
+  ]
+ },
+ {
+  "qid": "10966943",
+  "question": "Amblyopia: is visual loss permanent?",
+  "gold_label": "no",
+  "max_entailment": 0.0007313648820854723,
+  "mean_entailment": 0.0004231644270475954,
+  "per_passage": [
+   0.0001991214376175776,
+   0.0005970535567030311,
+   3.214792377548292e-05,
+   0.0005561343859881163,
+   0.0007313648820854723
+  ]
+ },
+ {
+  "qid": "20337202",
+  "question": "Continuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00025892831035889685,
+  "mean_entailment": 0.0001568651496199891,
+  "per_passage": [
+   0.00025892831035889685,
+   0.00019653409253805876,
+   6.100717291701585e-05,
+   8.600563887739554e-05,
+   0.0001818505406845361
+  ]
+ },
+ {
+  "qid": "27908583",
+  "question": "Should lower limb fractures be treated surgically in patients with chronic spinal injuries?",
+  "gold_label": "yes",
+  "max_entailment": 6.193311855895445e-05,
+  "mean_entailment": 4.872300269198604e-05,
+  "per_passage": [
+   4.2723037040559575e-05,
+   6.193311855895445e-05,
+   3.7482539482880384e-05,
+   4.931109651806764e-05,
+   5.216523277340457e-05
+  ]
+ },
+ {
+  "qid": "23621776",
+  "question": "Does a history of unintended pregnancy lessen the likelihood of desire for sterilization reversal?",
+  "gold_label": "no",
+  "max_entailment": 0.005903272889554501,
+  "mean_entailment": 0.0015465273754671216,
+  "per_passage": [
+   0.0008263539639301598,
+   0.0004629927861969918,
+   0.005903272889554501,
+   0.000430500105721876,
+   0.00010951708100037649
+  ]
+ },
+ {
+  "qid": "23361217",
+  "question": "Does the type of tibial component affect mechanical alignment in unicompartmental knee replacement?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005332906730473042,
+  "mean_entailment": 0.00036572583485394716,
+  "per_passage": [
+   0.00033465505111962557,
+   0.0002524597803130746,
+   0.00048291191342286766,
+   0.0005332906730473042,
+   0.00022531169815920293
+  ]
+ },
+ {
+  "qid": "12419743",
+  "question": "Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic breast cancer patients as effective as combination chemotherapy?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007888199179433286,
+  "mean_entailment": 0.00039943898445926607,
+  "per_passage": [
+   0.0007076610345393419,
+   5.917305679759011e-05,
+   0.00019871833501383662,
+   0.0007888199179433286,
+   0.00024282257072627544
+  ]
+ },
+ {
+  "qid": "18568239",
+  "question": "Is the ability to perform transurethral resection of the prostate influenced by the surgeon's previous experience?",
+  "gold_label": "yes",
+  "max_entailment": 0.0001869823900051415,
+  "mean_entailment": 0.00011684988567139953,
+  "per_passage": [
+   7.571736205136403e-05,
+   0.0001869823900051415,
+   0.00016522689838893712,
+   6.647246482316405e-05,
+   8.985034219222143e-05
+  ]
+ },
+ {
+  "qid": "10430303",
+  "question": "Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?",
+  "gold_label": "yes",
+  "max_entailment": 7.750590157229453e-05,
+  "mean_entailment": 6.867617048555985e-05,
+  "per_passage": [
+   7.467233808711171e-05,
+   6.969859532546252e-05,
+   7.750590157229453e-05,
+   4.5100085117155686e-05,
+   7.640394323971123e-05
+  ]
+ },
+ {
+  "qid": "24019262",
+  "question": "Does high blood pressure reduce the risk of chronic low back pain?",
+  "gold_label": "yes",
+  "max_entailment": 0.00024485960602760315,
+  "mean_entailment": 0.00013509448035620153,
+  "per_passage": [
+   8.597708801971748e-05,
+   0.00012019560381304473,
+   0.00012915043043904006,
+   9.528963710181415e-05,
+   0.00024485960602760315
+  ]
+ },
+ {
+  "qid": "12848629",
+  "question": "Is a 9-month treatment sufficient in tuberculous enterocolitis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003674693580251187,
+  "mean_entailment": 0.00020313351706136018,
+  "per_passage": [
+   0.00011615108087426051,
+   0.0003404902818147093,
+   7.063401426421478e-05,
+   0.00012092279939679429,
+   0.0003674693580251187
+  ]
+ },
+ {
+  "qid": "20354380",
+  "question": "Do women residents delay childbearing due to perceived career threats?",
+  "gold_label": "yes",
+  "max_entailment": 0.00017850135918706656,
+  "mean_entailment": 0.0001121040913858451,
+  "per_passage": [
+   0.00014536474191118032,
+   0.00010389939416199923,
+   0.00017850135918706656,
+   0.00011188931966898963,
+   2.0865636543021537e-05
+  ]
+ },
+ {
+  "qid": "19593710",
+  "question": "Could ESC (Electronic Stability Control) change the way we drive?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002199620648752898,
+  "mean_entailment": 0.00015217880718410015,
+  "per_passage": [
+   0.0001307284110225737,
+   0.00014303845819085836,
+   0.00013092799053993076,
+   0.0001362370967399329,
+   0.0002199620648752898
+  ]
+ },
+ {
+  "qid": "25779009",
+  "question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0005815078620798886,
+  "mean_entailment": 0.00031674763886258006,
+  "per_passage": [
+   0.00022246163280215114,
+   0.000464957527583465,
+   0.0005815078620798886,
+   0.00018755420751404017,
+   0.0001272571098525077
+  ]
+ },
+ {
+  "qid": "18239988",
+  "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?",
+  "gold_label": "yes",
+  "max_entailment": 0.00015053928655106574,
+  "mean_entailment": 8.114993397612125e-05,
+  "per_passage": [
+   4.198403257760219e-05,
+   6.48813002044335e-05,
+   0.00011369181447662413,
+   0.00015053928655106574,
+   3.465321788098663e-05
+  ]
+ },
+ {
+  "qid": "18832500",
+  "question": "Systematic use of patient-rated depression severity monitoring: is it helpful and feasible in clinical psychiatry?",
+  "gold_label": "yes",
+  "max_entailment": 0.00020500969549175352,
+  "mean_entailment": 0.00012238924682606012,
+  "per_passage": [
+   0.00011315869051031768,
+   8.601353329140693e-05,
+   9.969044185709208e-05,
+   0.00010807385115185753,
+   0.00020500969549175352
+  ]
+ },
+ {
+  "qid": "20842006",
+  "question": "Neck pain treatment with acupuncture: does the number of needles matter?",
+  "gold_label": "no",
+  "max_entailment": 0.004073736723512411,
+  "mean_entailment": 0.0009886296465992928,
+  "per_passage": [
+   6.462836154241813e-06,
+   0.00022125687974039465,
+   0.00048429283197037876,
+   0.004073736723512411,
+   0.00015739933587610722
+  ]
+ },
+ {
+  "qid": "16319544",
+  "question": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?",
+  "gold_label": "no",
+  "max_entailment": 0.00017824937822297215,
+  "mean_entailment": 0.00011896766955032945,
+  "per_passage": [
+   0.00017824937822297215,
+   0.00011667046783259138,
+   0.00013721715367864817,
+   6.620796193601564e-05,
+   9.649338608141989e-05
+  ]
+ },
+ {
+  "qid": "16827975",
+  "question": "Chemotherapy and survival in advanced non-small cell lung carcinoma: is pneumologists' skepticism justified?",
+  "gold_label": "no",
+  "max_entailment": 0.00025071806157939136,
+  "mean_entailment": 0.00017077746451832354,
+  "per_passage": [
+   0.0002272239507874474,
+   0.00010231546912109479,
+   0.0001212490678881295,
+   0.0001523808023193851,
+   0.00025071806157939136
+  ]
+ },
+ {
+  "qid": "21172844",
+  "question": "Does TDP-43 type confer a distinct pattern of atrophy in frontotemporal lobar degeneration?",
+  "gold_label": "yes",
+  "max_entailment": 0.00024661977658979595,
+  "mean_entailment": 0.0001696724066277966,
+  "per_passage": [
+   0.00019954198796767741,
+   0.00013895823212806135,
+   0.00024661977658979595,
+   0.00010129196016350761,
+   0.000161950069013983
+  ]
+ },
+ {
+  "qid": "11053064",
+  "question": "Fatigue in primary Sj\u00f6gren's syndrome: is there a link with the fibromyalgia syndrome?",
+  "gold_label": "no",
+  "max_entailment": 0.0006044080364517868,
+  "mean_entailment": 0.00041956742643378675,
+  "per_passage": [
+   0.00037042450276203454,
+   0.00043610786087810993,
+   0.0006044080364517868,
+   0.0003356824745424092,
+   0.00035121437394991517
+  ]
+ },
+ {
+  "qid": "19406119",
+  "question": "Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005392511375248432,
+  "mean_entailment": 0.00030106722260825336,
+  "per_passage": [
+   0.0004939097561873496,
+   9.540702012600377e-05,
+   0.00021174046560190618,
+   0.00016502778453286737,
+   0.0005392511375248432
+  ]
+ },
+ {
+  "qid": "12765819",
+  "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?",
+  "gold_label": "yes",
+  "max_entailment": 0.849470853805542,
+  "mean_entailment": 0.25221505761146545,
+  "per_passage": [
+   0.849470853805542,
+   0.005394097417593002,
+   0.07543926686048508,
+   0.0045103817246854305,
+   0.32626062631607056
+  ]
+ },
+ {
+  "qid": "26044262",
+  "question": "Are income-related differences in active travel associated with physical environmental characteristics?",
+  "gold_label": "no",
+  "max_entailment": 0.0008961171261034906,
+  "mean_entailment": 0.0003402307629585266,
+  "per_passage": [
+   0.0003139871696475893,
+   0.00012954090198036283,
+   0.00023169080668594688,
+   0.00012981781037524343,
+   0.0008961171261034906
+  ]
+ },
+ {
+  "qid": "25752725",
+  "question": "Schizophrenia patients with high intelligence: A clinically distinct sub-type of schizophrenia?",
+  "gold_label": "yes",
+  "max_entailment": 0.00013150318409316242,
+  "mean_entailment": 7.709684723522514e-05,
+  "per_passage": [
+   8.245905337389559e-05,
+   0.00013150318409316242,
+   1.3165446944185533e-05,
+   9.424395830137655e-05,
+   6.411260255845264e-05
+  ]
+ },
+ {
+  "qid": "8847047",
+  "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?",
+  "gold_label": "no",
+  "max_entailment": 0.0015281353844329715,
+  "mean_entailment": 0.0005830077570863068,
+  "per_passage": [
+   0.0006630474817939103,
+   0.0005368060665205121,
+   0.0015281353844329715,
+   7.880145858507603e-05,
+   0.00010824803030118346
+  ]
+ },
+ {
+  "qid": "19836806",
+  "question": "Should prostate specific antigen be adjusted for body mass index?",
+  "gold_label": "no",
+  "max_entailment": 0.00013531024160329252,
+  "mean_entailment": 0.00012500028242357075,
+  "per_passage": [
+   0.00011894366616616026,
+   0.0001304413308389485,
+   0.00013531024160329252,
+   0.00011193833051947877,
+   0.0001283677847823128
+  ]
+ },
+ {
+  "qid": "18575014",
+  "question": "Nasal polyposis: is there an inheritance pattern?",
+  "gold_label": "yes",
+  "max_entailment": 0.0002686905500013381,
+  "mean_entailment": 0.00018315583292860538,
+  "per_passage": [
+   0.00012952279939781874,
+   0.00016684082220308483,
+   0.00020072664483450353,
+   0.00014999830455053598,
+   0.0002686905500013381
+  ]
+ },
+ {
+  "qid": "15879722",
+  "question": "Is cytokeratin immunoreactivity useful in the diagnosis of short-segment Barrett's oesophagus in Korea?",
+  "gold_label": "yes",
+  "max_entailment": 0.00019295317179057747,
+  "mean_entailment": 0.00014882904361002147,
+  "per_passage": [
+   0.00015650330169592053,
+   9.614747978048399e-05,
+   0.00015278873615898192,
+   0.00014575257955584675,
+   0.00019295317179057747
+  ]
+ },
+ {
+  "qid": "9792366",
+  "question": "Is HIV/STD control in Jamaica making a difference?",
+  "gold_label": "yes",
+  "max_entailment": 0.0033461973071098328,
+  "mean_entailment": 0.0007500799838453531,
+  "per_passage": [
+   0.0001283511082874611,
+   9.712569590192288e-05,
+   0.00010655910591594875,
+   0.0033461973071098328,
+   7.21666801837273e-05
+  ]
+ },
+ {
+  "qid": "19852337",
+  "question": "Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?",
+  "gold_label": "yes",
+  "max_entailment": 0.00024012228823266923,
+  "mean_entailment": 9.740520908962935e-05,
+  "per_passage": [
+   6.880012369947508e-05,
+   4.997936048312113e-05,
+   6.838949047960341e-05,
+   5.973478619125672e-05,
+   0.00024012228823266923
+  ]
+ },
+ {
+  "qid": "15800018",
+  "question": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?",
+  "gold_label": "yes",
+  "max_entailment": 0.00031057142768986523,
+  "mean_entailment": 0.00020785273227375,
+  "per_passage": [
+   0.00031057142768986523,
+   0.0002298079925822094,
+   0.00016274639347102493,
+   0.0002575477701611817,
+   7.859006291255355e-05
+  ]
+ },
+ {
+  "qid": "27281318",
+  "question": "Can Flexible Instruments Create Adequate Femoral Tunnel Lengths at 90\u00b0 of Knee Flexion in Anterior Cruciate Ligament Reconstruction?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005364550743252039,
+  "mean_entailment": 0.0001466849644202739,
+  "per_passage": [
+   6.908952491357923e-05,
+   0.0005364550743252039,
+   5.3351366659626365e-05,
+   3.087586082983762e-05,
+   4.3653020838974044e-05
+  ]
+ },
+ {
+  "qid": "26452334",
+  "question": "Measurement of head and neck paragangliomas: is volumetric analysis worth the effort?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005816787015646696,
+  "mean_entailment": 0.0004684142186306417,
+  "per_passage": [
+   0.0003390325582586229,
+   0.0005816787015646696,
+   0.00048046375741250813,
+   0.0005807813722640276,
+   0.0003601147618610412
+  ]
+ },
+ {
+  "qid": "23497210",
+  "question": "Are women with major depression in pregnancy identifiable in population health data?",
+  "gold_label": "no",
+  "max_entailment": 0.001892377040348947,
+  "mean_entailment": 0.0005905472789891064,
+  "per_passage": [
+   0.00019724649609997869,
+   0.0002947782340925187,
+   0.001892377040348947,
+   0.00024689058773219585,
+   0.00032144386204890907
+  ]
+ },
+ {
+  "qid": "24809662",
+  "question": "Does concomitant anterior/apical repair during midurethral sling improve the overactive bladder component of mixed incontinence?",
+  "gold_label": "no",
+  "max_entailment": 0.010498586110770702,
+  "mean_entailment": 0.004072449170053005,
+  "per_passage": [
+   0.0009198839543387294,
+   0.004778869915753603,
+   0.001664294977672398,
+   0.002500612288713455,
+   0.010498586110770702
+  ]
+ },
+ {
+  "qid": "24270957",
+  "question": "Is combined therapy more effective than growth hormone or hyperbaric oxygen alone in the healing of left ischemic and non-ischemic colonic anastomoses?",
+  "gold_label": "yes",
+  "max_entailment": 0.0009652119479142129,
+  "mean_entailment": 0.00031079017207957804,
+  "per_passage": [
+   5.078144386061467e-05,
+   0.00010335321712773293,
+   0.0009652119479142129,
+   7.879494660301134e-05,
+   0.0003558094031177461
+  ]
+ },
+ {
+  "qid": "12626177",
+  "question": "Can the Internet be used to improve sexual health awareness in web-wise young people?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0002586623886600137,
+  "mean_entailment": 0.00018374758656136692,
+  "per_passage": [
+   0.0001973273465409875,
+   0.00016566377598792315,
+   0.0002586623886600137,
+   9.843587758950889e-05,
+   0.0001986485585803166
+  ]
+ },
+ {
+  "qid": "27643961",
+  "question": "Major depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression?",
+  "gold_label": "no",
+  "max_entailment": 0.0037986324168741703,
+  "mean_entailment": 0.0023213322274386883,
+  "per_passage": [
+   0.0015938370488584042,
+   0.002191204344853759,
+   0.0037986324168741703,
+   0.0020202992018312216,
+   0.002002687891945243
+  ]
+ },
+ {
+  "qid": "23517744",
+  "question": "Is solitary kidney really more resistant to ischemia?",
+  "gold_label": "yes",
+  "max_entailment": 0.001746022142469883,
+  "mean_entailment": 0.0007148580625653267,
+  "per_passage": [
+   0.001746022142469883,
+   0.00016712173237465322,
+   0.0002850839518941939,
+   0.0011521802516654134,
+   0.00022388204524759203
+  ]
+ },
+ {
+  "qid": "19054501",
+  "question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?",
+  "gold_label": "yes",
+  "max_entailment": 0.0001641061098780483,
+  "mean_entailment": 0.0001145891728810966,
+  "per_passage": [
+   4.460327181732282e-05,
+   0.00015014810196589679,
+   7.909514533821493e-05,
+   0.000134993257233873,
+   0.0001641061098780483
+  ]
+ },
+ {
+  "qid": "23149821",
+  "question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00021078986173961312,
+  "mean_entailment": 0.00010205432772636414,
+  "per_passage": [
+   0.00021078986173961312,
+   0.0001083592651411891,
+   5.827073619002476e-05,
+   4.137555879424326e-05,
+   9.147627133643255e-05
+  ]
+ },
+ {
+  "qid": "27287237",
+  "question": "Assessment of appropriate antimicrobial prescribing: do experts agree?",
+  "gold_label": "yes",
+  "max_entailment": 0.00015851676289457828,
+  "mean_entailment": 0.00011574327800190076,
+  "per_passage": [
+   7.617739902343601e-05,
+   0.00015851676289457828,
+   6.273270992096514e-05,
+   0.00015336294018197805,
+   0.0001279266143683344
+  ]
+ },
+ {
+  "qid": "18269157",
+  "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007286359323188663,
+  "mean_entailment": 0.0002858158550225198,
+  "per_passage": [
+   0.00016823166515678167,
+   0.00012915837578475475,
+   0.00025332559016533196,
+   0.0001497277116868645,
+   0.0007286359323188663
+  ]
+ },
+ {
+  "qid": "11146778",
+  "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+  "gold_label": "yes",
+  "max_entailment": 0.00019858131418004632,
+  "mean_entailment": 6.62023012409918e-05,
+  "per_passage": [
+   4.09005515393801e-05,
+   0.00019858131418004632,
+   4.8191588575718924e-05,
+   1.2193931979709305e-05,
+   3.114416540483944e-05
+  ]
+ },
+ {
+  "qid": "14652839",
+  "question": "Does the sequence of clamp application during open abdominal aortic aneurysm surgery influence distal embolisation?",
+  "gold_label": "no",
+  "max_entailment": 0.0028687692247331142,
+  "mean_entailment": 0.0006141504854895175,
+  "per_passage": [
+   0.0028687692247331142,
+   6.354353536153212e-05,
+   4.01422475988511e-05,
+   3.611762076616287e-05,
+   6.217971531441435e-05
+  ]
+ },
+ {
+  "qid": "20304513",
+  "question": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+  "gold_label": "no",
+  "max_entailment": 0.0004628510505426675,
+  "mean_entailment": 0.00024173206475097686,
+  "per_passage": [
+   0.00028040504548698664,
+   0.00016235056682489812,
+   0.0004628510505426675,
+   0.00013500424392987043,
+   0.000168049315107055
+  ]
+ },
+ {
+  "qid": "15141797",
+  "question": "Can we rely on arterial line sampling in performing activated plasma thromboplastin time after cardiac surgery?",
+  "gold_label": "no",
+  "max_entailment": 0.0018076146952807903,
+  "mean_entailment": 0.0004439453477971256,
+  "per_passage": [
+   0.00010913771984633058,
+   0.0018076146952807903,
+   5.29823919350747e-05,
+   3.5172350180801004e-05,
+   0.00021481960720848292
+  ]
+ },
+ {
+  "qid": "22668712",
+  "question": "Internal derangement of the temporomandibular joint: is there still a place for ultrasound?",
+  "gold_label": "no",
+  "max_entailment": 0.00026843007071875036,
+  "mean_entailment": 0.0001350275706499815,
+  "per_passage": [
+   6.354553624987602e-05,
+   0.00018899486167356372,
+   0.00026843007071875036,
+   8.24765520519577e-05,
+   7.169087621150538e-05
+  ]
+ },
+ {
+  "qid": "10973547",
+  "question": "Are patients with Werlhof's disease at increased risk for bleeding complications when undergoing cardiac surgery?",
+  "gold_label": "no",
+  "max_entailment": 0.004171239677816629,
+  "mean_entailment": 0.00143327412661165,
+  "per_passage": [
+   0.004171239677816629,
+   0.0012353023048490286,
+   0.00040614118915982544,
+   0.001179504208266735,
+   0.00017418336938135326
+  ]
+ },
+ {
+  "qid": "15151701",
+  "question": "Profiling quality of care: Is there a role for peer review?",
+  "gold_label": "yes",
+  "max_entailment": 0.0014521906850859523,
+  "mean_entailment": 0.0007448505493812263,
+  "per_passage": [
+   0.0003174478770233691,
+   0.0007752773817628622,
+   0.000874759629368782,
+   0.0014521906850859523,
+   0.0003045773773919791
+  ]
+ },
+ {
+  "qid": "23899611",
+  "question": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006082442123442888,
+  "mean_entailment": 0.00020530758774839342,
+  "per_passage": [
+   0.0006082442123442888,
+   6.23861124040559e-05,
+   0.00018482017912901938,
+   0.00015233305748552084,
+   1.8754399206954986e-05
+  ]
+ },
+ {
+  "qid": "8566975",
+  "question": "Serovar specific immunity to Neisseria gonorrhoeae: does it exist?",
+  "gold_label": "no",
+  "max_entailment": 0.00034600598155520856,
+  "mean_entailment": 0.0001984970149351284,
+  "per_passage": [
+   0.00017405701510142535,
+   0.00021238852059468627,
+   0.00011651222303044051,
+   0.00034600598155520856,
+   0.00014352136349771172
+  ]
+ },
+ {
+  "qid": "22876568",
+  "question": "Is vitamin D deficiency a feature of pediatric celiac disease?",
+  "gold_label": "no",
+  "max_entailment": 0.0001317040587309748,
+  "mean_entailment": 0.00010692428622860461,
+  "per_passage": [
+   0.00011677844304358587,
+   7.44661083444953e-05,
+   9.867284097708762e-05,
+   0.00011299992183921859,
+   0.0001317040587309748
+  ]
+ },
+ {
+  "qid": "20187289",
+  "question": "Prescriptions as a proxy for asthma in children: a good choice?",
+  "gold_label": "no",
+  "max_entailment": 0.00012513110414147377,
+  "mean_entailment": 7.673939398955554e-05,
+  "per_passage": [
+   3.269730950705707e-05,
+   0.00012513110414147377,
+   6.568044045707211e-05,
+   6.011291407048702e-05,
+   0.00010007522359956056
+  ]
+ },
+ {
+  "qid": "20497880",
+  "question": "Is transurethral catheterisation the ideal method of bladder drainage?",
+  "gold_label": "no",
+  "max_entailment": 0.00022797934070695192,
+  "mean_entailment": 0.0001125069466070272,
+  "per_passage": [
+   5.659898306475952e-05,
+   9.035516268340871e-05,
+   0.00022797934070695192,
+   0.00010373323311796412,
+   8.386803528992459e-05
+  ]
+ },
+ {
+  "qid": "25417760",
+  "question": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?",
+  "gold_label": "no",
+  "max_entailment": 0.0003658972855191678,
+  "mean_entailment": 0.0002375757321715355,
+  "per_passage": [
+   0.0003658972855191678,
+   0.00014149815251585096,
+   0.00016525847604498267,
+   0.00017359982302878052,
+   0.000341624952852726
+  ]
+ },
+ {
+  "qid": "17429333",
+  "question": "Does menopausal transition affect the quality of life?",
+  "gold_label": "no",
+  "max_entailment": 0.0007033189758658409,
+  "mean_entailment": 0.0003557824529707432,
+  "per_passage": [
+   0.0007033189758658409,
+   0.00013751564256381243,
+   0.00033234545844607055,
+   0.0005511494819074869,
+   5.4582716984441504e-05
+  ]
+ },
+ {
+  "qid": "14697414",
+  "question": "Is there a favorable subset of patients with prostate cancer who develop oligometastases?",
+  "gold_label": "yes",
+  "max_entailment": 0.00030901888385415077,
+  "mean_entailment": 0.0002157692506443709,
+  "per_passage": [
+   0.0001328033540630713,
+   0.00029817965696565807,
+   0.00030901888385415077,
+   0.00021808408200740814,
+   0.00012076025450369343
+  ]
+ },
+ {
+  "qid": "18594195",
+  "question": "Do older patients who refuse to participate in a self-management intervention in the Netherlands differ from older patients who agree to participate?",
+  "gold_label": "yes",
+  "max_entailment": 0.00018882080621551722,
+  "mean_entailment": 0.00013399038289207965,
+  "per_passage": [
+   0.00018882080621551722,
+   0.000119752214231994,
+   0.00011445343989180401,
+   0.00011831083975266665,
+   0.0001286145852645859
+  ]
+ },
+ {
+  "qid": "25614468",
+  "question": "Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?",
+  "gold_label": "no",
+  "max_entailment": 0.0003518903977237642,
+  "mean_entailment": 0.00010812127584358677,
+  "per_passage": [
+   0.0003518903977237642,
+   1.339157643087674e-05,
+   7.671662751818076e-05,
+   7.490273856092244e-05,
+   2.370506445004139e-05
+  ]
+ },
+ {
+  "qid": "11296674",
+  "question": "Prostatic syndrome and pleural effusion: are they different diseases?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0007007700041867793,
+  "mean_entailment": 0.0004359793965704739,
+  "per_passage": [
+   0.00044320226879790425,
+   0.00043082248885184526,
+   0.0007007700041867793,
+   0.0003420623834244907,
+   0.00026303977938368917
+  ]
+ },
+ {
+  "qid": "17598882",
+  "question": "Is breast cancer prognosis inherited?",
+  "gold_label": "yes",
+  "max_entailment": 0.0022685397416353226,
+  "mean_entailment": 0.0010428273817524314,
+  "per_passage": [
+   0.0022685397416353226,
+   6.92465400788933e-05,
+   0.0013498369371518493,
+   0.00021766722784377635,
+   0.001308846171014011
+  ]
+ },
+ {
+  "qid": "23539689",
+  "question": "Cold preparation use in young children after FDA warnings: do concerns still exist?",
+  "gold_label": "yes",
+  "max_entailment": 0.00027349713491275907,
+  "mean_entailment": 0.00016286360914818943,
+  "per_passage": [
+   7.698895205976442e-05,
+   0.0001690574426902458,
+   0.0001443483488401398,
+   0.00027349713491275907,
+   0.0001504262036178261
+  ]
+ },
+ {
+  "qid": "7664228",
+  "question": "Discharging patients earlier from Winnipeg hospitals: does it adversely affect quality of care?",
+  "gold_label": "no",
+  "max_entailment": 0.00019491417333483696,
+  "mean_entailment": 0.00016489172412548214,
+  "per_passage": [
+   0.00019491417333483696,
+   0.0001920798240462318,
+   0.00014560061390511692,
+   0.00012567505473271012,
+   0.00016618894005659968
+  ]
+ },
+ {
+  "qid": "11458136",
+  "question": "Does managed care enable more low income persons to identify a usual source of care?",
+  "gold_label": "maybe",
+  "max_entailment": 0.000960398989263922,
+  "mean_entailment": 0.0006741245160810649,
+  "per_passage": [
+   0.000960398989263922,
+   0.00045999689609743655,
+   0.0004162931872997433,
+   0.0007771112723276019,
+   0.0007568222936242819
+  ]
+ },
+ {
+  "qid": "25885219",
+  "question": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?",
+  "gold_label": "yes",
+  "max_entailment": 0.21583886444568634,
+  "mean_entailment": 0.04343896359205246,
+  "per_passage": [
+   0.0006549729150719941,
+   0.21583886444568634,
+   0.0003988930257037282,
+   0.0002591242082417011,
+   4.295798498787917e-05
+  ]
+ },
+ {
+  "qid": "25304452",
+  "question": "Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?",
+  "gold_label": "yes",
+  "max_entailment": 0.0007083178497850895,
+  "mean_entailment": 0.00040048727532848716,
+  "per_passage": [
+   0.00019801518647000194,
+   0.0004999981611035764,
+   0.0007083178497850895,
+   0.0005083023570477962,
+   8.78028295119293e-05
+  ]
+ },
+ {
+  "qid": "9363244",
+  "question": "Does occupational nuclear power plant radiation affect conception and pregnancy?",
+  "gold_label": "yes",
+  "max_entailment": 0.00018783705309033394,
+  "mean_entailment": 0.00011861979874083772,
+  "per_passage": [
+   0.00013255643716547638,
+   0.00018783705309033394,
+   0.00017084472347050905,
+   3.27330271829851e-05,
+   6.912776007084176e-05
+  ]
+ },
+ {
+  "qid": "22849512",
+  "question": "Are neighbourhood social capital and availability of sports facilities related to sports participation among Dutch adolescents?",
+  "gold_label": "maybe",
+  "max_entailment": 0.009914360009133816,
+  "mean_entailment": 0.0033082205336540937,
+  "per_passage": [
+   0.0009198786574415863,
+   0.0020492689218372107,
+   0.0028925074730068445,
+   0.000765088654588908,
+   0.009914360009133816
+  ]
+ },
+ {
+  "qid": "16414216",
+  "question": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?",
+  "gold_label": "no",
+  "max_entailment": 0.0002177918649977073,
+  "mean_entailment": 0.00014132763317320496,
+  "per_passage": [
+   0.0001473039883421734,
+   0.00012058639549650252,
+   3.995577935711481e-05,
+   0.0002177918649977073,
+   0.0001810001122066751
+  ]
+ },
+ {
+  "qid": "18719011",
+  "question": "Do overweight children necessarily make overweight adults?",
+  "gold_label": "no",
+  "max_entailment": 0.0004447639512363821,
+  "mean_entailment": 0.0002152398956241086,
+  "per_passage": [
+   0.00012251315638422966,
+   0.0004447639512363821,
+   0.00011716329026967287,
+   0.00030330196022987366,
+   8.845712727634236e-05
+  ]
+ },
+ {
+  "qid": "16538201",
+  "question": "Does use of hydrophilic guidewires significantly improve technical success rates of peripheral PTA?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00014100369298830628,
+  "mean_entailment": 0.00010981315426761284,
+  "per_passage": [
+   0.00012676368351094425,
+   0.00014100369298830628,
+   9.660146315582097e-05,
+   8.282155613414943e-05,
+   0.00010187539010075852
+  ]
+ },
+ {
+  "qid": "17682349",
+  "question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?",
+  "gold_label": "yes",
+  "max_entailment": 0.001784670166671276,
+  "mean_entailment": 0.0004809586680494249,
+  "per_passage": [
+   0.00013628775195684284,
+   9.311346366303042e-05,
+   0.001784670166671276,
+   0.00014913709310349077,
+   0.00024158482847269624
+  ]
+ },
+ {
+  "qid": "17562682",
+  "question": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00020167743787169456,
+  "mean_entailment": 0.00013281544670462608,
+  "per_passage": [
+   7.429556717397645e-05,
+   0.0001399668399244547,
+   0.00020167743787169456,
+   0.00014032960461918265,
+   0.00010780781303765252
+  ]
+ },
+ {
+  "qid": "8199520",
+  "question": "Are physicians meeting the needs of family caregivers of the frail elderly?",
+  "gold_label": "no",
+  "max_entailment": 0.00047869942500256,
+  "mean_entailment": 0.00037945056101307273,
+  "per_passage": [
+   0.00016922209761105478,
+   0.00043471110984683037,
+   0.00047869942500256,
+   0.0003709864104166627,
+   0.0004436337621882558
+  ]
+ },
+ {
+  "qid": "25859857",
+  "question": "Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?",
+  "gold_label": "no",
+  "max_entailment": 0.00024249523994512856,
+  "mean_entailment": 9.739295637700707e-05,
+  "per_passage": [
+   0.00024249523994512856,
+   3.398509943508543e-05,
+   6.577577005373314e-05,
+   9.434542880626395e-05,
+   5.036327274865471e-05
+  ]
+ },
+ {
+  "qid": "12690589",
+  "question": "Can continuous physical training counteract aging effect on myoelectric fatigue?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005649763625115156,
+  "mean_entailment": 0.00029981316765770316,
+  "per_passage": [
+   0.0004436136514414102,
+   0.00020544594735838473,
+   0.0005649763625115156,
+   0.00015739034279249609,
+   0.00012763950508087873
+  ]
+ },
+ {
+  "qid": "12913347",
+  "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+  "gold_label": "yes",
+  "max_entailment": 8.265554060926661e-05,
+  "mean_entailment": 7.303198799490929e-05,
+  "per_passage": [
+   8.18525004433468e-05,
+   5.7333145377924666e-05,
+   8.208661165554076e-05,
+   8.265554060926661e-05,
+   6.12321455264464e-05
+  ]
+ },
+ {
+  "qid": "28359277",
+  "question": "Do healthier lifestyles lead to less utilization of healthcare resources?",
+  "gold_label": "no",
+  "max_entailment": 0.00029138376703485847,
+  "mean_entailment": 0.0001767353096511215,
+  "per_passage": [
+   0.00029138376703485847,
+   7.515326433349401e-05,
+   0.00018093940161634237,
+   9.074887202586979e-05,
+   0.00024545128690078855
+  ]
+ },
+ {
+  "qid": "14968373",
+  "question": "Can CT predict the level of CSF block in tuberculous hydrocephalus?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005155638791620731,
+  "mean_entailment": 0.0002531769569031894,
+  "per_passage": [
+   0.0002989921486005187,
+   8.670223178341985e-05,
+   0.00023591853096149862,
+   0.00012870796490460634,
+   0.0005155638791620731
+  ]
+ },
+ {
+  "qid": "12630042",
+  "question": "Does body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00014321060734800994,
+  "mean_entailment": 0.0001225475425599143,
+  "per_passage": [
+   0.00014321060734800994,
+   8.583597809774801e-05,
+   0.00013006327208131552,
+   0.000136726230266504,
+   0.00011690167593769729
+  ]
+ },
+ {
+  "qid": "18096128",
+  "question": "Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?",
+  "gold_label": "no",
+  "max_entailment": 0.00041129987221211195,
+  "mean_entailment": 0.00017160239804070443,
+  "per_passage": [
+   9.27484143176116e-05,
+   0.00017669280350673944,
+   0.00041129987221211195,
+   9.037361451191828e-05,
+   8.689725655131042e-05
+  ]
+ },
+ {
+  "qid": "9142039",
+  "question": "Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?",
+  "gold_label": "yes",
+  "max_entailment": 0.000117950898129493,
+  "mean_entailment": 9.063551260624081e-05,
+  "per_passage": [
+   7.369874947471544e-05,
+   9.035989933181554e-05,
+   0.000117950898129493,
+   9.015126852318645e-05,
+   8.101676939986646e-05
+  ]
+ },
+ {
+  "qid": "10375486",
+  "question": "Are variations in the use of carotid endarterectomy explained by population Need?",
+  "gold_label": "no",
+  "max_entailment": 0.0012551074614748359,
+  "mean_entailment": 0.0007876271265558898,
+  "per_passage": [
+   0.0012551074614748359,
+   0.0003144729998894036,
+   0.000315208948450163,
+   0.0008976933313533664,
+   0.001155652804300189
+  ]
+ },
+ {
+  "qid": "25887165",
+  "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?",
+  "gold_label": "yes",
+  "max_entailment": 0.001458054524846375,
+  "mean_entailment": 0.00042684172512963414,
+  "per_passage": [
+   0.00014256783470045775,
+   0.001458054524846375,
+   0.00018436669779475778,
+   0.00012626880197785795,
+   0.00022295066446531564
+  ]
+ },
+ {
+  "qid": "18182265",
+  "question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?",
+  "gold_label": "yes",
+  "max_entailment": 0.0021207400131970644,
+  "mean_entailment": 0.0009004880557768047,
+  "per_passage": [
+   5.4849169828230515e-05,
+   0.0015331743052229285,
+   0.0002111485373461619,
+   0.0021207400131970644,
+   0.0005825282423757017
+  ]
+ },
+ {
+  "qid": "22301406",
+  "question": "CYP2D6*4 allele and breast cancer risk: is there any association?",
+  "gold_label": "yes",
+  "max_entailment": 0.0008718479075469077,
+  "mean_entailment": 0.0004391406546346843,
+  "per_passage": [
+   0.0004278111446183175,
+   0.00019525423704180866,
+   0.0005119014531373978,
+   0.0008718479075469077,
+   0.00018888842896558344
+  ]
+ },
+ {
+  "qid": "24793469",
+  "question": "Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.0035793757997453213,
+  "mean_entailment": 0.0011556214885786176,
+  "per_passage": [
+   0.0013620511163026094,
+   0.0035793757997453213,
+   0.00048316316679120064,
+   0.0002498882822692394,
+   0.00010362871398683637
+  ]
+ },
+ {
+  "qid": "23359100",
+  "question": "Is etoricoxib effective in preventing heterotopic ossification after primary total hip arthroplasty?",
+  "gold_label": "yes",
+  "max_entailment": 0.00018433867080602795,
+  "mean_entailment": 0.00013989002036396414,
+  "per_passage": [
+   0.00011398818605812266,
+   0.00018230102432426065,
+   0.00018433867080602795,
+   0.00011538941180333495,
+   0.00010343277972424403
+  ]
+ },
+ {
+  "qid": "17715311",
+  "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+  "gold_label": "yes",
+  "max_entailment": 0.0013403656193986535,
+  "mean_entailment": 0.0009289972367696464,
+  "per_passage": [
+   0.0006482856697402894,
+   0.0004986563581041992,
+   0.001176786026917398,
+   0.0009808928007259965,
+   0.0013403656193986535
+  ]
+ },
+ {
+  "qid": "19198736",
+  "question": "Is being small for gestational age a risk factor for retinopathy of prematurity?",
+  "gold_label": "no",
+  "max_entailment": 0.0005660310853272676,
+  "mean_entailment": 0.00024823108105920255,
+  "per_passage": [
+   0.0005660310853272676,
+   0.00014710497634951025,
+   0.00023862968373578042,
+   4.96086104249116e-05,
+   0.0002397810749243945
+  ]
+ },
+ {
+  "qid": "26923375",
+  "question": "Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?",
+  "gold_label": "yes",
+  "max_entailment": 0.0009377817623317242,
+  "mean_entailment": 0.0005342984804883599,
+  "per_passage": [
+   0.0008732242276892066,
+   0.00027924944879487157,
+   0.0003398081462364644,
+   0.0009377817623317242,
+   0.00024142871552612633
+  ]
+ },
+ {
+  "qid": "23321509",
+  "question": "Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still matter?",
+  "gold_label": "yes",
+  "max_entailment": 0.0026937988586723804,
+  "mean_entailment": 0.0007072330336086452,
+  "per_passage": [
+   0.00017230662342626601,
+   0.00015988216910045594,
+   0.000290149066131562,
+   0.0026937988586723804,
+   0.00022002850892022252
+  ]
+ },
+ {
+  "qid": "18802997",
+  "question": "Can calprotectin predict relapse risk in inflammatory bowel disease?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0031370334327220917,
+  "mean_entailment": 0.0014502519043162465,
+  "per_passage": [
+   0.001543514197692275,
+   0.0031370334327220917,
+   0.0006908740615472198,
+   0.0015741874231025577,
+   0.00030564996995963156
+  ]
+ },
+ {
+  "qid": "24449622",
+  "question": "Is there a relationship between serum paraoxonase level and epicardial fat tissue thickness?",
+  "gold_label": "no",
+  "max_entailment": 0.0005898044328205287,
+  "mean_entailment": 0.00024725476396270096,
+  "per_passage": [
+   9.938482253346592e-05,
+   0.0002375862532062456,
+   0.0001562880352139473,
+   0.00015321026148740202,
+   0.0005898044328205287
+  ]
+ },
+ {
+  "qid": "23177368",
+  "question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?",
+  "gold_label": "no",
+  "max_entailment": 8.629751391708851e-05,
+  "mean_entailment": 6.99347656336613e-05,
+  "per_passage": [
+   7.278151315404102e-05,
+   8.629751391708851e-05,
+   7.518297934439033e-05,
+   5.6956414482556283e-05,
+   5.845539635629393e-05
+  ]
+ },
+ {
+  "qid": "21801416",
+  "question": "The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?",
+  "gold_label": "yes",
+  "max_entailment": 0.01045832596719265,
+  "mean_entailment": 0.0037661821115761995,
+  "per_passage": [
+   0.0006396331591531634,
+   0.0030688249971717596,
+   0.001050753053277731,
+   0.01045832596719265,
+   0.0036133734975010157
+  ]
+ },
+ {
+  "qid": "23719685",
+  "question": "Does high-dose radiotherapy benefit palliative lung cancer patients?",
+  "gold_label": "no",
+  "max_entailment": 0.00043834015377797186,
+  "mean_entailment": 0.00017714384011924267,
+  "per_passage": [
+   0.00043834015377797186,
+   0.00010708667105063796,
+   9.785186557564884e-05,
+   0.00012125215289415792,
+   0.0001211883791256696
+  ]
+ },
+ {
+  "qid": "22233470",
+  "question": "Does the distribution of health care benefits in Kenya meet the principles of universal coverage?",
+  "gold_label": "no",
+  "max_entailment": 0.000222722563194111,
+  "mean_entailment": 0.00015356106450781226,
+  "per_passage": [
+   0.000222722563194111,
+   6.687473796773702e-05,
+   0.00011244994675507769,
+   0.00020932369807269424,
+   0.00015643435472156852
+  ]
+ },
+ {
+  "qid": "11955750",
+  "question": "Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?",
+  "gold_label": "no",
+  "max_entailment": 0.00024718238273635507,
+  "mean_entailment": 0.00017639878205955029,
+  "per_passage": [
+   0.00019282654102426022,
+   0.00016706716269254684,
+   0.00024718238273635507,
+   0.0001397462037857622,
+   0.0001351715618511662
+  ]
+ },
+ {
+  "qid": "12607120",
+  "question": "Does anastomotic leakage affect functional outcome after rectal resection for cancer?",
+  "gold_label": "no",
+  "max_entailment": 3.7113059079274535e-05,
+  "mean_entailment": 2.1800948161398992e-05,
+  "per_passage": [
+   3.598265175241977e-05,
+   2.8026890959154116e-06,
+   3.7113059079274535e-05,
+   1.7520118490210734e-05,
+   1.558621988806408e-05
+  ]
+ },
+ {
+  "qid": "22519710",
+  "question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+  "gold_label": "no",
+  "max_entailment": 0.0002510655904188752,
+  "mean_entailment": 0.00017590296920388937,
+  "per_passage": [
+   0.0002510655904188752,
+   0.00022787138004787266,
+   0.00020304239296820015,
+   0.00011385307152522728,
+   8.3682440163102e-05
+  ]
+ },
+ {
+  "qid": "26418441",
+  "question": "Can we ease the financial burden of colonoscopy?",
+  "gold_label": "yes",
+  "max_entailment": 0.0004072781011927873,
+  "mean_entailment": 0.00018543681653682142,
+  "per_passage": [
+   0.0001228851906489581,
+   0.0001265391183551401,
+   0.0004072781011927873,
+   0.00014550465857610106,
+   0.0001249769702553749
+  ]
+ },
+ {
+  "qid": "10381996",
+  "question": "Clinician assessment for acute chest syndrome in febrile patients with sickle cell disease: is it accurate enough?",
+  "gold_label": "no",
+  "max_entailment": 0.0026027262210845947,
+  "mean_entailment": 0.0008811415173113346,
+  "per_passage": [
+   0.0026027262210845947,
+   0.00046852315426804125,
+   0.000970642373431474,
+   8.85363551788032e-05,
+   0.0002752795408014208
+  ]
+ },
+ {
+  "qid": "11943048",
+  "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?",
+  "gold_label": "yes",
+  "max_entailment": 0.0006343551212921739,
+  "mean_entailment": 0.00021663180086761713,
+  "per_passage": [
+   0.00024399720132350922,
+   4.0913695556810126e-05,
+   8.645646448712796e-05,
+   0.0006343551212921739,
+   7.743655442027375e-05
+  ]
+ },
+ {
+  "qid": "8111516",
+  "question": "Do family physicians make good sentinels for influenza?",
+  "gold_label": "yes",
+  "max_entailment": 0.0010451640700921416,
+  "mean_entailment": 0.00045119895366951823,
+  "per_passage": [
+   0.00044935490586794913,
+   0.00016774881805758923,
+   0.0010451640700921416,
+   0.0003258117940276861,
+   0.00026791513664647937
+  ]
+ },
+ {
+  "qid": "20736887",
+  "question": "Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?",
+  "gold_label": "no",
+  "max_entailment": 0.00041777139995247126,
+  "mean_entailment": 0.00023608290939591825,
+  "per_passage": [
+   0.00041777139995247126,
+   0.00014882785035297275,
+   0.00014959421241655946,
+   0.00013205302821006626,
+   0.0003321680414956063
+  ]
+ },
+ {
+  "qid": "18158048",
+  "question": "Histologic evaluation of the testicular remnant associated with the vanishing testes syndrome: is surgical management necessary?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005131139769218862,
+  "mean_entailment": 0.00028137178742326796,
+  "per_passage": [
+   0.00017543963622301817,
+   0.00022401240130420774,
+   0.00019576033810153604,
+   0.0005131139769218862,
+   0.00029853248270228505
+  ]
+ },
+ {
+  "qid": "14713788",
+  "question": "Is year of radical prostatectomy a predictor of outcome in prostate cancer?",
+  "gold_label": "yes",
+  "max_entailment": 6.261713861022145e-05,
+  "mean_entailment": 4.172283297521062e-05,
+  "per_passage": [
+   2.578319799795281e-05,
+   4.999749580747448e-05,
+   6.261713861022145e-05,
+   3.331244079163298e-05,
+   3.690388621180318e-05
+  ]
+ },
+ {
+  "qid": "26419377",
+  "question": "Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?",
+  "gold_label": "yes",
+  "max_entailment": 0.030097492039203644,
+  "mean_entailment": 0.013722104020416737,
+  "per_passage": [
+   0.016355227679014206,
+   0.002112592803314328,
+   0.030097492039203644,
+   0.013918616808950901,
+   0.006126586347818375
+  ]
+ },
+ {
+  "qid": "26859535",
+  "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+  "gold_label": "no",
+  "max_entailment": 0.0006088426453061402,
+  "mean_entailment": 0.00036668742541223764,
+  "per_passage": [
+   0.00033150476519949734,
+   0.0002465766156092286,
+   0.0006088426453061402,
+   0.00027884350856766105,
+   0.00036766950506716967
+  ]
+ },
+ {
+  "qid": "17089900",
+  "question": "Does Paget's disease exist in India?",
+  "gold_label": "yes",
+  "max_entailment": 0.0001750414667185396,
+  "mean_entailment": 0.00012099915329599753,
+  "per_passage": [
+   6.786591984564438e-05,
+   0.00015119282761588693,
+   8.421000529779121e-05,
+   0.0001750414667185396,
+   0.00012668555427808315
+  ]
+ },
+ {
+  "qid": "23412195",
+  "question": "Should displaced midshaft clavicular fractures be treated surgically?",
+  "gold_label": "yes",
+  "max_entailment": 0.00030997477006167173,
+  "mean_entailment": 0.000210187237826176,
+  "per_passage": [
+   0.00015782938862685114,
+   0.0002500681148376316,
+   0.00018798689416144043,
+   0.00014507700689136982,
+   0.00030997477006167173
+  ]
+ },
+ {
+  "qid": "16418930",
+  "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+  "gold_label": "no",
+  "max_entailment": 0.029328569769859314,
+  "mean_entailment": 0.02238190360367298,
+  "per_passage": [
+   0.029328569769859314,
+   0.0223538838326931,
+   0.016521673649549484,
+   0.029200438410043716,
+   0.01450494397431612
+  ]
+ },
+ {
+  "qid": "17403428",
+  "question": "Recurrent spontaneous abortion and skewed X-inactivation: is there an association?",
+  "gold_label": "no",
+  "max_entailment": 0.0007302581798285246,
+  "mean_entailment": 0.00038122915429994464,
+  "per_passage": [
+   0.00027897185645997524,
+   0.0007302581798285246,
+   1.3851757103111595e-05,
+   0.0005953523796051741,
+   0.00028771147481165826
+  ]
+ },
+ {
+  "qid": "26556589",
+  "question": "Does type 1 diabetes mellitus affect Achilles tendon response to a 10\u00a0km run?",
+  "gold_label": "no",
+  "max_entailment": 0.0005122311413288116,
+  "mean_entailment": 0.00027834574575535953,
+  "per_passage": [
+   0.00023163230798672885,
+   0.00021503573225345463,
+   0.00019762301235459745,
+   0.00023520656395703554,
+   0.0005122311413288116
+  ]
+ },
+ {
+  "qid": "21952349",
+  "question": "Remote ischemic postconditioning: does it protect against ischemic damage in percutaneous coronary revascularization?",
+  "gold_label": "yes",
+  "max_entailment": 0.9110049605369568,
+  "mean_entailment": 0.2056194245815277,
+  "per_passage": [
+   0.0029312840197235346,
+   0.09945821017026901,
+   0.9110049605369568,
+   0.014490327797830105,
+   0.0002123045123880729
+  ]
+ },
+ {
+  "qid": "22522271",
+  "question": "Is late-night salivary cortisol a better screening test for possible cortisol excess than standard screening tests in obese patients with Type 2 diabetes?",
+  "gold_label": "no",
+  "max_entailment": 0.0005853832117281854,
+  "mean_entailment": 0.00025996920885518193,
+  "per_passage": [
+   0.00039061950519680977,
+   6.157581083243713e-05,
+   0.00024502159794792533,
+   0.0005853832117281854,
+   1.7245734852622263e-05
+  ]
+ },
+ {
+  "qid": "26209118",
+  "question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?",
+  "gold_label": "no",
+  "max_entailment": 0.00037586039979942143,
+  "mean_entailment": 0.00021317097707651556,
+  "per_passage": [
+   4.942802479490638e-05,
+   0.00037586039979942143,
+   0.0003175324818585068,
+   0.0002534426166675985,
+   6.959150050533935e-05
+  ]
+ },
+ {
+  "qid": "9044116",
+  "question": "Biliary atresia: should all patients undergo a portoenterostomy?",
+  "gold_label": "no",
+  "max_entailment": 0.0001427993702236563,
+  "mean_entailment": 0.0001063523959601298,
+  "per_passage": [
+   0.0001427993702236563,
+   0.00011213377001695335,
+   0.00011312731658108532,
+   9.92403001873754e-05,
+   6.4461215515621e-05
+  ]
+ },
+ {
+  "qid": "12090319",
+  "question": "Is there a need for pelvic CT scan in cases of renal cell carcinoma?",
+  "gold_label": "no",
+  "max_entailment": 0.00016744881577324122,
+  "mean_entailment": 7.690249185543507e-05,
+  "per_passage": [
+   3.637895861174911e-05,
+   7.312082743737847e-05,
+   5.076889647170901e-05,
+   0.00016744881577324122,
+   5.679492824128829e-05
+  ]
+ },
+ {
+  "qid": "11079675",
+  "question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?",
+  "gold_label": "yes",
+  "max_entailment": 0.002499427879229188,
+  "mean_entailment": 0.0010253918590024114,
+  "per_passage": [
+   0.0013641458936035633,
+   0.00027727853739634156,
+   0.002499427879229188,
+   0.00036466220626607537,
+   0.0006214448949322104
+  ]
+ },
+ {
+  "qid": "22979954",
+  "question": "Failed IUD insertions in community practice: an under-recognized problem?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003739070671144873,
+  "mean_entailment": 0.0002135819086106494,
+  "per_passage": [
+   0.0001927518896991387,
+   0.0002784447860904038,
+   0.00018591032130643725,
+   3.689546792884357e-05,
+   0.0003739070671144873
+  ]
+ },
+ {
+  "qid": "22694248",
+  "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+  "gold_label": "yes",
+  "max_entailment": 0.0008666258654557168,
+  "mean_entailment": 0.00035172668867744505,
+  "per_passage": [
+   0.0006212485604919493,
+   0.0008666258654557168,
+   7.852995622670278e-05,
+   5.4184740292839706e-05,
+   0.00013804429909214377
+  ]
+ },
+ {
+  "qid": "26363639",
+  "question": "Is aerobic workload positively related to ambulatory blood pressure?",
+  "gold_label": "yes",
+  "max_entailment": 0.0008675418212078512,
+  "mean_entailment": 0.0002634537231642753,
+  "per_passage": [
+   4.431276465766132e-05,
+   0.0008675418212078512,
+   3.836788528133184e-05,
+   0.0001488511188654229,
+   0.00021819501125719398
+  ]
+ },
+ {
+  "qid": "22564465",
+  "question": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?",
+  "gold_label": "yes",
+  "max_entailment": 0.023850329220294952,
+  "mean_entailment": 0.008601740933954716,
+  "per_passage": [
+   0.005099155940115452,
+   0.00905508641153574,
+   0.023850329220294952,
+   0.0019570686854422092,
+   0.0030470648780465126
+  ]
+ },
+ {
+  "qid": "12963175",
+  "question": "Can progression of valvar aortic stenosis be predicted accurately?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003880390140693635,
+  "mean_entailment": 0.00020640366710722446,
+  "per_passage": [
+   0.00014651416859123856,
+   0.0003880390140693635,
+   0.00015339124365709722,
+   0.00013641147234011441,
+   0.00020766237867064774
+  ]
+ },
+ {
+  "qid": "19653482",
+  "question": "Do familiar teammates request and accept more backup?",
+  "gold_label": "yes",
+  "max_entailment": 0.0008851942257024348,
+  "mean_entailment": 0.0005290608969517052,
+  "per_passage": [
+   0.00023686689382884651,
+   0.0004750450898427516,
+   0.0008851942257024348,
+   0.000445433339336887,
+   0.0006027647759765387
+  ]
+ },
+ {
+  "qid": "17062225",
+  "question": "Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?",
+  "gold_label": "yes",
+  "max_entailment": 0.00033911498030647635,
+  "mean_entailment": 0.00019959997734986246,
+  "per_passage": [
+   0.00019353207608219236,
+   0.0001335175329586491,
+   0.0002401919336989522,
+   9.16433782549575e-05,
+   0.00033911498030647635
+  ]
+ },
+ {
+  "qid": "24599411",
+  "question": "Is gastric cancer different in Korea and the United States?",
+  "gold_label": "yes",
+  "max_entailment": 0.0012162954080849886,
+  "mean_entailment": 0.0003877285053022206,
+  "per_passage": [
+   0.00011403873941162601,
+   0.0002089973568217829,
+   0.0002602399908937514,
+   0.0012162954080849886,
+   0.00013907089305575937
+  ]
+ },
+ {
+  "qid": "22990761",
+  "question": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?",
+  "gold_label": "yes",
+  "max_entailment": 0.7935721278190613,
+  "mean_entailment": 0.15938986837863922,
+  "per_passage": [
+   0.7935721278190613,
+   4.88412260892801e-05,
+   0.0005895146168768406,
+   0.0026359132025390863,
+   0.0001029733830364421
+  ]
+ },
+ {
+  "qid": "25103647",
+  "question": "Does government assistance improve utilization of eye care services by low-income individuals?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0003743871347978711,
+  "mean_entailment": 0.0001480784558225423,
+  "per_passage": [
+   1.0927626135526225e-05,
+   0.00012599641922861338,
+   0.0003743871347978711,
+   9.154809231404215e-05,
+   0.0001375330612063408
+  ]
+ },
+ {
+  "qid": "15995461",
+  "question": "Do some U.S. states have higher/lower injury mortality rates than others?",
+  "gold_label": "yes",
+  "max_entailment": 0.0003258319047745317,
+  "mean_entailment": 0.00019870624237228185,
+  "per_passage": [
+   0.0003258319047745317,
+   0.00021254579769447446,
+   0.00018255510076414794,
+   0.0001677997934166342,
+   0.00010479858610779047
+  ]
+ },
+ {
+  "qid": "12070552",
+  "question": "Do antibiotics decrease post-tonsillectomy morbidity?",
+  "gold_label": "no",
+  "max_entailment": 0.00029431001166813076,
+  "mean_entailment": 0.00015270666335709393,
+  "per_passage": [
+   9.193884034175426e-05,
+   0.00012173634604550898,
+   0.00029431001166813076,
+   6.276736530708149e-05,
+   0.00019278078980278224
+  ]
+ },
+ {
+  "qid": "21845457",
+  "question": "Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?",
+  "gold_label": "yes",
+  "max_entailment": 0.00020801844948437065,
+  "mean_entailment": 0.00015430654457304627,
+  "per_passage": [
+   0.00016185743152163923,
+   0.00020801844948437065,
+   7.021579222055152e-05,
+   0.00018374889623373747,
+   0.0001476921752328053
+  ]
+ },
+ {
+  "qid": "26701174",
+  "question": "Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?",
+  "gold_label": "yes",
+  "max_entailment": 0.00022366213670466095,
+  "mean_entailment": 0.00015173666179180145,
+  "per_passage": [
+   0.00022366213670466095,
+   0.0001371353428112343,
+   0.0001539910736028105,
+   0.00013635381765197963,
+   0.00010754093091236427
+  ]
+ },
+ {
+  "qid": "25669733",
+  "question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?",
+  "gold_label": "yes",
+  "max_entailment": 0.0015915186377242208,
+  "mean_entailment": 0.0006761767435818911,
+  "per_passage": [
+   0.0015915186377242208,
+   0.0004268784250598401,
+   0.0002427229774184525,
+   0.0004969416186213493,
+   0.0006228222628124058
+  ]
+ },
+ {
+  "qid": "25394614",
+  "question": "Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?",
+  "gold_label": "maybe",
+  "max_entailment": 0.00021679105702787638,
+  "mean_entailment": 0.00013246196613181382,
+  "per_passage": [
+   0.00021679105702787638,
+   8.752736175665632e-05,
+   8.963549043983221e-05,
+   0.00017402900266461074,
+   9.432691877009347e-05
+  ]
+ },
+ {
+  "qid": "21739621",
+  "question": "Does obesity predict knee pain over fourteen years in women, independently of radiographic changes?",
+  "gold_label": "yes",
+  "max_entailment": 0.00016209013119805604,
+  "mean_entailment": 0.00013322712038643658,
+  "per_passage": [
+   0.00012191622226964682,
+   0.00015991280088201165,
+   8.26613322715275e-05,
+   0.00016209013119805604,
+   0.00013955504982732236
+  ]
+ },
+ {
+  "qid": "21256734",
+  "question": "Does pain intensity predict a poor opioid response in cancer patients?",
+  "gold_label": "no",
+  "max_entailment": 0.0037614202592521906,
+  "mean_entailment": 0.001943968585692346,
+  "per_passage": [
+   0.0037614202592521906,
+   0.000804683833848685,
+   0.0028745883610099554,
+   0.0009075576672330499,
+   0.0013715920504182577
+  ]
+ },
+ {
+  "qid": "26222664",
+  "question": "The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?",
+  "gold_label": "yes",
+  "max_entailment": 0.004020491614937782,
+  "mean_entailment": 0.0028743762522935867,
+  "per_passage": [
+   0.002422188874334097,
+   0.003052813233807683,
+   0.0020536428783088923,
+   0.002822744892910123,
+   0.004020491614937782
+  ]
+ },
+ {
+  "qid": "23831910",
+  "question": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+  "gold_label": "yes",
+  "max_entailment": 0.00013512009172700346,
+  "mean_entailment": 0.00011182514572283253,
+  "per_passage": [
+   9.329857857665047e-05,
+   0.00011937628732994199,
+   9.003774903248996e-05,
+   0.00013512009172700346,
+   0.00012129303649999201
+  ]
+ },
+ {
+  "qid": "11566686",
+  "question": "In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?",
+  "gold_label": "yes",
+  "max_entailment": 0.00037948403041809797,
+  "mean_entailment": 0.0002458580711390823,
+  "per_passage": [
+   0.00037948403041809797,
+   0.00017820432549342513,
+   0.00035318901063874364,
+   0.00013968056009616703,
+   0.00017873239994514734
+  ]
+ },
+ {
+  "qid": "18359123",
+  "question": "Is it better to be big?",
+  "gold_label": "no",
+  "max_entailment": 0.00112518563400954,
+  "mean_entailment": 0.0008232305990532041,
+  "per_passage": [
+   0.0010535521432757378,
+   0.00112518563400954,
+   0.000691882218234241,
+   0.0007599764503538609,
+   0.0004855563456658274
+  ]
+ },
+ {
+  "qid": "24153338",
+  "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+  "gold_label": "yes",
+  "max_entailment": 0.00023677601711824536,
+  "mean_entailment": 0.000166673373314552,
+  "per_passage": [
+   0.0001966685667866841,
+   0.00018435595848131925,
+   0.00023677601711824536,
+   0.0001757810532581061,
+   3.978525637649e-05
+  ]
+ },
+ {
+  "qid": "22266735",
+  "question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?",
+  "gold_label": "yes",
+  "max_entailment": 0.0004736666742246598,
+  "mean_entailment": 0.00022411093232221901,
+  "per_passage": [
+   0.0004736666742246598,
+   0.0001967412099475041,
+   9.245191904483363e-05,
+   7.137421198422089e-05,
+   0.00028632054454647005
+  ]
+ },
+ {
+  "qid": "22706226",
+  "question": "Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?",
+  "gold_label": "maybe",
+  "max_entailment": 0.0008432235335931182,
+  "mean_entailment": 0.0006143170176073909,
+  "per_passage": [
+   0.0007900678901933134,
+   0.0004507822450250387,
+   0.0005847929278388619,
+   0.0004027184913866222,
+   0.0008432235335931182
+  ]
+ },
+ {
+  "qid": "26113007",
+  "question": "Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?",
+  "gold_label": "no",
+  "max_entailment": 0.004157946910709143,
+  "mean_entailment": 0.001202998450025916,
+  "per_passage": [
+   9.897961717797443e-05,
+   0.0012839570408686996,
+   0.0001299714349443093,
+   0.00034413745743222535,
+   0.004157946910709143
+  ]
+ },
+ {
+  "qid": "16772913",
+  "question": "A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?",
+  "gold_label": "yes",
+  "max_entailment": 0.00021517834102269262,
+  "mean_entailment": 0.0001718382554827258,
+  "per_passage": [
+   0.00017767433018889278,
+   0.00013811481767334044,
+   0.00021517834102269262,
+   0.00015250913565978408,
+   0.00017571468197274953
+  ]
+ },
+ {
+  "qid": "18049437",
+  "question": "Is there any relationship between streptococcal infection and multiple sclerosis?",
+  "gold_label": "yes",
+  "max_entailment": 0.00017785259115044028,
+  "mean_entailment": 0.00012194435112178326,
+  "per_passage": [
+   8.680382597958669e-05,
+   9.260963997803628e-05,
+   0.00017785259115044028,
+   0.00013233267236500978,
+   0.00012012303341180086
+  ]
+ },
+ {
+  "qid": "24487044",
+  "question": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?",
+  "gold_label": "yes",
+  "max_entailment": 0.0005582619924098253,
+  "mean_entailment": 0.00025689569883979857,
+  "per_passage": [
+   0.00034539125044830143,
+   6.858023698441684e-05,
+   9.319555829279125e-05,
+   0.0005582619924098253,
+   0.00021904941240791231
+  ]
+ },
+ {
+  "qid": "15369037",
+  "question": "Do people who were passive smokers during childhood have increased risk of long-term work disability?",
+  "gold_label": "yes",
+  "max_entailment": 0.00021712318994104862,
+  "mean_entailment": 0.00014338482287712395,
+  "per_passage": [
+   0.00021712318994104862,
+   0.00020872008462902158,
+   6.159953773021698e-05,
+   0.00010669916082406417,
+   0.0001227820903295651
+  ]
+ }
+]

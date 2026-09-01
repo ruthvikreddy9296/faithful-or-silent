@@ -1,0 +1,14 @@
+{
+  "n_answerable": 400,
+  "n_unanswerable": 250,
+  "accuracy_when_answering": 0.6530612244897959,
+  "false_refusal_rate": 0.3875,
+  "false_answer_rate": 0.04,
+  "unparseable_rate": 0.0,
+  "false_answer_rate_ci95": [
+    0.016,
+    0.064
+  ],
+  "recall_at_k": 0.8825,
+  "config": "p1_bm25"
+}

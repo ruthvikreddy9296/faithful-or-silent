@@ -1,0 +1,83 @@
+[
+  {
+    "config": "p1_base",
+    "recall_at_k": 0.9725,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_chunk256",
+    "recall_at_k": 0.9725,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_chunk1024",
+    "recall_at_k": 0.9725,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_bm25",
+    "recall_at_k": 0.8825,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_hybrid",
+    "recall_at_k": 0.9825,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_k3",
+    "recall_at_k": 0.96,
+    "k": 3,
+    "leaks": 0
+  },
+  {
+    "config": "p1_k8",
+    "recall_at_k": 0.985,
+    "k": 8,
+    "leaks": 0
+  },
+  {
+    "config": "p1_rerank",
+    "recall_at_k": 0.95,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_noctx",
+    "recall_at_k": null,
+    "k": 5,
+    "leaks": null,
+    "control": true
+  },
+  {
+    "config": "p1_simgate",
+    "recall_at_k": 0.9725,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_reasonfirst",
+    "recall_at_k": 0.9725,
+    "k": 5,
+    "leaks": 0
+  },
+  {
+    "config": "p1_bge",
+    "recall_at_k": null,
+    "k": 5,
+    "leaks": null,
+    "deferred": true
+  },
+  {
+    "config": "p1_pubmedbert",
+    "recall_at_k": null,
+    "k": 5,
+    "leaks": null,
+    "deferred": true
+  }
+]

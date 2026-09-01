@@ -1,0 +1,23 @@
+{
+  "generated_by": "counts computed 2026-09-01 from data/ files (data/ is gitignored, so these constants live here)",
+  "phase1": {
+    "corpus_passages": 52101,
+    "chunks_512tok_16overlap": 52096,
+    "note_chunk_gap": "5 passages produce no chunk (empty text after cleaning); Methods must cite both numbers",
+    "questions_total": 650,
+    "n_answerable": 400,
+    "n_unanswerable_heldout": 250,
+    "distractors": {
+      "pqal_papers": 350,
+      "pqau_papers": 15000
+    },
+    "split_seed": 42,
+    "nested_superset_of_pilot": true
+  },
+  "pilot_phase0": {
+    "corpus_passages": 3183,
+    "questions_total": 150,
+    "n_answerable": 100,
+    "n_unanswerable_heldout": 50
+  }
+}

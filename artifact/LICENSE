@@ -1,0 +1,7 @@
+The data in this directory and in results/ (the certified unanswerable
+medical QA test set, screen scores, and experimental outputs) is released
+under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: Sai Ruthvik Reddy Avuku. Questions derive from PubMedQA
+(Jin et al., EMNLP-IJCNLP 2019), released under the MIT license.

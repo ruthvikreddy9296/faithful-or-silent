@@ -1,0 +1,113 @@
+{
+  "mcnemar": [
+    {
+      "pair": "p1_bge vs p1_bm25",
+      "fa_a": 0.088,
+      "fa_b": 0.032,
+      "n01": 5,
+      "n10": 19,
+      "discordant": 24,
+      "mcnemar_p": 0.00661
+    },
+    {
+      "pair": "p1_bge vs p1_base",
+      "fa_a": 0.088,
+      "fa_b": 0.072,
+      "n01": 11,
+      "n10": 15,
+      "discordant": 26,
+      "mcnemar_p": 0.557
+    },
+    {
+      "pair": "p1_base vs p1_bm25",
+      "fa_a": 0.072,
+      "fa_b": 0.032,
+      "n01": 4,
+      "n10": 14,
+      "discordant": 18,
+      "mcnemar_p": 0.0309
+    },
+    {
+      "pair": "p1_base vs p1_reasonfirst",
+      "fa_a": 0.072,
+      "fa_b": 0.064,
+      "n01": 5,
+      "n10": 7,
+      "discordant": 12,
+      "mcnemar_p": 0.774
+    },
+    {
+      "pair": "p1_base vs p1_simgate",
+      "fa_a": 0.072,
+      "fa_b": 0.048,
+      "n01": 2,
+      "n10": 8,
+      "discordant": 10,
+      "mcnemar_p": 0.109
+    },
+    {
+      "pair": "p1_base vs p1_k8",
+      "fa_a": 0.072,
+      "fa_b": 0.092,
+      "n01": 12,
+      "n10": 7,
+      "discordant": 19,
+      "mcnemar_p": 0.359
+    },
+    {
+      "pair": "p1_bge vs p1_reasonfirst",
+      "fa_a": 0.088,
+      "fa_b": 0.064,
+      "n01": 8,
+      "n10": 14,
+      "discordant": 22,
+      "mcnemar_p": 0.286
+    },
+    {
+      "pair": "p1_base vs p1_hybrid",
+      "fa_a": 0.072,
+      "fa_b": 0.056,
+      "n01": 4,
+      "n10": 8,
+      "discordant": 12,
+      "mcnemar_p": 0.388
+    },
+    {
+      "pair": "p1_base vs p1_rerank",
+      "fa_a": 0.072,
+      "fa_b": 0.076,
+      "n01": 11,
+      "n10": 10,
+      "discordant": 21,
+      "mcnemar_p": 1.0
+    },
+    {
+      "pair": "p1_base vs p1_chunk256",
+      "fa_a": 0.072,
+      "fa_b": 0.08,
+      "n01": 7,
+      "n10": 5,
+      "discordant": 12,
+      "mcnemar_p": 0.774
+    },
+    {
+      "pair": "p1_base vs p1_chunk1024",
+      "fa_a": 0.072,
+      "fa_b": 0.08,
+      "n01": 6,
+      "n10": 4,
+      "discordant": 10,
+      "mcnemar_p": 0.754
+    }
+  ],
+  "spearman_recall_fa": {
+    "rho": 0.5919031837065819,
+    "p": 0.07143735868477023,
+    "n": 10
+  },
+  "spearman_recall_fa_k5": {
+    "rho": 0.48151817836667493,
+    "p": 0.2270020585576164,
+    "n": 8
+  }
+}

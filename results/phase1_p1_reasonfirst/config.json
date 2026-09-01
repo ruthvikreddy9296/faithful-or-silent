@@ -1,0 +1,18 @@
+{
+  "name": "p1_reasonfirst",
+  "chunk_size_tokens": 512,
+  "chunk_overlap_tokens": 16,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "query_prefix": "",
+  "retrieval": "dense",
+  "search_type": "similarity",
+  "top_k": 5,
+  "use_reranker": false,
+  "reranker_model": "BAAI/bge-reranker-base",
+  "abstain_sim_threshold": 0.0,
+  "no_context": false,
+  "generator_model": "Qwen/Qwen2.5-7B-Instruct",
+  "max_new_tokens": 400,
+  "temperature": 0.0,
+  "prompt_version": "v1"
+}

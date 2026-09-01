@@ -1,0 +1,14 @@
+{
+  "n_answerable": 400,
+  "n_unanswerable": 250,
+  "accuracy_when_answering": 0.674496644295302,
+  "false_refusal_rate": 0.255,
+  "false_answer_rate": 0.108,
+  "unparseable_rate": 0.0,
+  "false_answer_rate_ci95": [
+    0.072,
+    0.148
+  ],
+  "recall_at_k": 0.97,
+  "config": "p1_pubmedbert"
+}

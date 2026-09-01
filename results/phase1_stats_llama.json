@@ -1,0 +1,113 @@
+{
+  "mcnemar": [
+    {
+      "pair": "p1_bge vs p1_bm25",
+      "fa_a": 0.08,
+      "fa_b": 0.04,
+      "n01": 7,
+      "n10": 17,
+      "discordant": 24,
+      "mcnemar_p": 0.0639
+    },
+    {
+      "pair": "p1_bge vs p1_base",
+      "fa_a": 0.08,
+      "fa_b": 0.1,
+      "n01": 15,
+      "n10": 10,
+      "discordant": 25,
+      "mcnemar_p": 0.424
+    },
+    {
+      "pair": "p1_base vs p1_bm25",
+      "fa_a": 0.1,
+      "fa_b": 0.04,
+      "n01": 6,
+      "n10": 21,
+      "discordant": 27,
+      "mcnemar_p": 0.00592
+    },
+    {
+      "pair": "p1_base vs p1_reasonfirst",
+      "fa_a": 0.1,
+      "fa_b": 0.2,
+      "n01": 29,
+      "n10": 4,
+      "discordant": 33,
+      "mcnemar_p": 1.09e-05
+    },
+    {
+      "pair": "p1_base vs p1_simgate",
+      "fa_a": 0.1,
+      "fa_b": 0.088,
+      "n01": 0,
+      "n10": 3,
+      "discordant": 3,
+      "mcnemar_p": 0.25
+    },
+    {
+      "pair": "p1_base vs p1_k8",
+      "fa_a": 0.1,
+      "fa_b": 0.112,
+      "n01": 8,
+      "n10": 5,
+      "discordant": 13,
+      "mcnemar_p": 0.581
+    },
+    {
+      "pair": "p1_bge vs p1_reasonfirst",
+      "fa_a": 0.08,
+      "fa_b": 0.2,
+      "n01": 38,
+      "n10": 8,
+      "discordant": 46,
+      "mcnemar_p": 9.25e-06
+    },
+    {
+      "pair": "p1_base vs p1_hybrid",
+      "fa_a": 0.1,
+      "fa_b": 0.1,
+      "n01": 11,
+      "n10": 11,
+      "discordant": 22,
+      "mcnemar_p": 1.0
+    },
+    {
+      "pair": "p1_base vs p1_rerank",
+      "fa_a": 0.1,
+      "fa_b": 0.104,
+      "n01": 10,
+      "n10": 9,
+      "discordant": 19,
+      "mcnemar_p": 1.0
+    },
+    {
+      "pair": "p1_base vs p1_chunk256",
+      "fa_a": 0.1,
+      "fa_b": 0.092,
+      "n01": 0,
+      "n10": 2,
+      "discordant": 2,
+      "mcnemar_p": 0.5
+    },
+    {
+      "pair": "p1_base vs p1_chunk1024",
+      "fa_a": 0.1,
+      "fa_b": 0.1,
+      "n01": 0,
+      "n10": 0,
+      "discordant": 0,
+      "mcnemar_p": 1.0
+    }
+  ],
+  "spearman_recall_fa": {
+    "rho": 0.13043478260869565,
+    "p": 0.7194788802340621,
+    "n": 10
+  },
+  "spearman_recall_fa_k5": {
+    "rho": -0.17500000000000002,
+    "p": 0.6785126696777342,
+    "n": 8
+  }
+}

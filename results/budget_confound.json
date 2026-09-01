@@ -1,0 +1,21 @@
+{
+  "note": "Bound the reason-first token-budget confound (150 -> 400 max_new_tokens).",
+  "verdict_first_base": {
+    "qwen": {
+      "n": 650,
+      "unparseable": 0,
+      "parse_class_not_fixed_in_first_400_chars": 0,
+      "max_response_chars": 762
+    },
+    "llama": {
+      "n": 650,
+      "unparseable": 0,
+      "parse_class_not_fixed_in_first_400_chars": 0,
+      "max_response_chars": 642
+    }
+  },
+  "verdict_then_refusal_anywhere": {
+    "responses_checked": 25350,
+    "verdict_then_refusal": 4
+  }
+}

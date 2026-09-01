@@ -1,0 +1,12 @@
+{
+  "name": "base",
+  "chunk_size_tokens": 512,
+  "chunk_overlap_tokens": 16,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval": "dense",
+  "search_type": "similarity",
+  "top_k": 5,
+  "generator_model": "meta-llama/Llama-3.1-8B-Instruct",
+  "max_new_tokens": 400,
+  "temperature": 0.0
+}

@@ -1,0 +1,42 @@
+{
+  "note": "Reproducibility record for the three generation arms. Raw completions are archived per-config in results/phase1_p1_*/completions*.jsonl.",
+  "arms": {
+    "qwen": {
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "quantization": "4-bit bitsandbytes (load_in_4bit=True, default quant_type fp4, compute dtype float16)",
+      "runtime": "Google Colab A100, notebooks/generate_colab.ipynb (resumable, Drive-persisted)",
+      "access_dates": [
+        "2026-08-28",
+        "2026-08-29"
+      ],
+      "temperature": 0.0,
+      "max_new_tokens": "150 (400 for p1_reasonfirst)",
+      "completions_suffix": "completions.jsonl"
+    },
+    "openai_terra": {
+      "model": "gpt-5.6-terra",
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "access_dates": [
+        "2026-08-28",
+        "2026-08-29"
+      ],
+      "temperature": "provider default (1.0); GPT-5.6 rejects temperature overrides \u2014 documented provider constraint",
+      "max_completion_tokens": "150 (400 for p1_reasonfirst)",
+      "snapshot_alias": null,
+      "served_model_field": "not present in archived completions (response field was not returned/recorded); reproducibility rests on model string + access dates + archived raw completions",
+      "completions_suffix": "completions_openai.jsonl",
+      "script": "scripts/generate_openai.py"
+    },
+    "llama": {
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "quantization": "4-bit bitsandbytes (load_in_4bit=True, default quant_type fp4, compute dtype float16)",
+      "runtime": "Google Colab A100, notebooks/generate_colab.ipynb (arm-suffixed outputs)",
+      "access_dates": [
+        "2026-09-01"
+      ],
+      "temperature": 0.0,
+      "max_new_tokens": "150 (400 for p1_reasonfirst)",
+      "completions_suffix": "completions_llama.jsonl"
+    }
+  }
+}

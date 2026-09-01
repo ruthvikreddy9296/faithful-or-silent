@@ -1,0 +1,184 @@
+[
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.0,
+    "false_refusal_rate": 1.0,
+    "false_answer_rate": 0.0,
+    "unparseable_rate": 0.0,
+    "false_answer_rate_ci95": [
+      0.0,
+      0.0
+    ],
+    "recall_at_k": null,
+    "config": "p1_noctx"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.4579831932773109,
+    "false_refusal_rate": 0.3975,
+    "false_answer_rate": 0.032,
+    "unparseable_rate": 0.007692307692307693,
+    "false_answer_rate_ci95": [
+      0.012,
+      0.056
+    ],
+    "recall_at_k": 0.8825,
+    "config": "p1_bm25"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.583941605839416,
+    "false_refusal_rate": 0.3,
+    "false_answer_rate": 0.048,
+    "unparseable_rate": 0.018461538461538463,
+    "false_answer_rate_ci95": [
+      0.024,
+      0.076
+    ],
+    "recall_at_k": 0.9725,
+    "config": "p1_simgate"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5597269624573379,
+    "false_refusal_rate": 0.2675,
+    "false_answer_rate": 0.056,
+    "unparseable_rate": 0.003076923076923077,
+    "false_answer_rate_ci95": [
+      0.028,
+      0.084
+    ],
+    "recall_at_k": 0.9825,
+    "config": "p1_hybrid"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.6506550218340611,
+    "false_refusal_rate": 0.4275,
+    "false_answer_rate": 0.064,
+    "unparseable_rate": 0.0,
+    "false_answer_rate_ci95": [
+      0.036,
+      0.096
+    ],
+    "recall_at_k": 0.9725,
+    "config": "p1_reasonfirst"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5734265734265734,
+    "false_refusal_rate": 0.28,
+    "false_answer_rate": 0.072,
+    "unparseable_rate": 0.012307692307692308,
+    "false_answer_rate_ci95": [
+      0.04,
+      0.104
+    ],
+    "recall_at_k": 0.9725,
+    "config": "p1_base"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5285714285714286,
+    "false_refusal_rate": 0.295,
+    "false_answer_rate": 0.076,
+    "unparseable_rate": 0.004615384615384616,
+    "false_answer_rate_ci95": [
+      0.044,
+      0.112
+    ],
+    "recall_at_k": 0.96,
+    "config": "p1_k3"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5681818181818182,
+    "false_refusal_rate": 0.2175,
+    "false_answer_rate": 0.076,
+    "unparseable_rate": 0.009230769230769232,
+    "false_answer_rate_ci95": [
+      0.044,
+      0.112
+    ],
+    "recall_at_k": 0.97,
+    "config": "p1_pubmedbert"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5669014084507042,
+    "false_refusal_rate": 0.2825,
+    "false_answer_rate": 0.076,
+    "unparseable_rate": 0.007692307692307693,
+    "false_answer_rate_ci95": [
+      0.044,
+      0.112
+    ],
+    "recall_at_k": 0.95,
+    "config": "p1_rerank"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5679442508710801,
+    "false_refusal_rate": 0.2725,
+    "false_answer_rate": 0.08,
+    "unparseable_rate": 0.009230769230769232,
+    "false_answer_rate_ci95": [
+      0.048,
+      0.116
+    ],
+    "recall_at_k": 0.9725,
+    "config": "p1_chunk1024"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.5714285714285714,
+    "false_refusal_rate": 0.2875,
+    "false_answer_rate": 0.08,
+    "unparseable_rate": 0.012307692307692308,
+    "false_answer_rate_ci95": [
+      0.048,
+      0.116
+    ],
+    "recall_at_k": 0.9725,
+    "config": "p1_chunk256"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.64375,
+    "false_refusal_rate": 0.19,
+    "false_answer_rate": 0.088,
+    "unparseable_rate": 0.012307692307692308,
+    "false_answer_rate_ci95": [
+      0.056,
+      0.124
+    ],
+    "recall_at_k": 0.9925,
+    "config": "p1_bge"
+  },
+  {
+    "n_answerable": 400,
+    "n_unanswerable": 250,
+    "accuracy_when_answering": 0.6310344827586207,
+    "false_refusal_rate": 0.2575,
+    "false_answer_rate": 0.092,
+    "unparseable_rate": 0.012307692307692308,
+    "false_answer_rate_ci95": [
+      0.05990000000000009,
+      0.128
+    ],
+    "recall_at_k": 0.985,
+    "config": "p1_k8"
+  }
+]

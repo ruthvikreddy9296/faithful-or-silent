@@ -1,0 +1,12 @@
+{
+  "n_answerable": 100,
+  "n_unanswerable": 50,
+  "accuracy_when_answering": 0.573170731707317,
+  "false_refusal_rate": 0.18,
+  "false_answer_rate": 0.02,
+  "unparseable_rate": 0.0,
+  "false_answer_rate_ci95": [
+    0.0,
+    0.06
+  ]
+}

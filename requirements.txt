@@ -1,0 +1,11 @@
+# Local (retrieval-side) — Apple Silicon / CPU friendly
+sentence-transformers   # embeddings (MiniLM, BGE, MedCPT) — Apache 2.0
+chromadb                # vector store — Apache 2.0
+rank_bm25               # sparse retrieval — Apache 2.0
+pandas
+pyarrow
+scipy                   # bootstrap CIs, significance tests
+tqdm
+
+# Colab (generation-side) — installed in notebook, listed for reference
+# transformers accelerate bitsandbytes   # open-weight LLM inference, 4-bit

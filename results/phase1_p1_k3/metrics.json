@@ -1,0 +1,14 @@
+{
+  "n_answerable": 400,
+  "n_unanswerable": 250,
+  "accuracy_when_answering": 0.6867469879518072,
+  "false_refusal_rate": 0.3775,
+  "false_answer_rate": 0.096,
+  "unparseable_rate": 0.0,
+  "false_answer_rate_ci95": [
+    0.06,
+    0.136
+  ],
+  "recall_at_k": 0.96,
+  "config": "p1_k3"
+}

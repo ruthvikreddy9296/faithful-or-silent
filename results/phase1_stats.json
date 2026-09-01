@@ -1,0 +1,113 @@
+{
+  "mcnemar": [
+    {
+      "pair": "p1_bge vs p1_bm25",
+      "fa_a": 0.328,
+      "fa_b": 0.124,
+      "n01": 10,
+      "n10": 61,
+      "discordant": 71,
+      "mcnemar_p": 4.64e-10
+    },
+    {
+      "pair": "p1_bge vs p1_base",
+      "fa_a": 0.328,
+      "fa_b": 0.264,
+      "n01": 21,
+      "n10": 37,
+      "discordant": 58,
+      "mcnemar_p": 0.0479
+    },
+    {
+      "pair": "p1_base vs p1_bm25",
+      "fa_a": 0.264,
+      "fa_b": 0.124,
+      "n01": 11,
+      "n10": 46,
+      "discordant": 57,
+      "mcnemar_p": 3.31e-06
+    },
+    {
+      "pair": "p1_base vs p1_reasonfirst",
+      "fa_a": 0.264,
+      "fa_b": 0.116,
+      "n01": 0,
+      "n10": 37,
+      "discordant": 37,
+      "mcnemar_p": 1.46e-11
+    },
+    {
+      "pair": "p1_base vs p1_simgate",
+      "fa_a": 0.264,
+      "fa_b": 0.216,
+      "n01": 0,
+      "n10": 12,
+      "discordant": 12,
+      "mcnemar_p": 0.000488
+    },
+    {
+      "pair": "p1_base vs p1_k8",
+      "fa_a": 0.264,
+      "fa_b": 0.32,
+      "n01": 16,
+      "n10": 2,
+      "discordant": 18,
+      "mcnemar_p": 0.00131
+    },
+    {
+      "pair": "p1_bge vs p1_reasonfirst",
+      "fa_a": 0.328,
+      "fa_b": 0.116,
+      "n01": 3,
+      "n10": 56,
+      "discordant": 59,
+      "mcnemar_p": 1.19e-13
+    },
+    {
+      "pair": "p1_base vs p1_hybrid",
+      "fa_a": 0.264,
+      "fa_b": 0.244,
+      "n01": 19,
+      "n10": 24,
+      "discordant": 43,
+      "mcnemar_p": 0.542
+    },
+    {
+      "pair": "p1_base vs p1_rerank",
+      "fa_a": 0.264,
+      "fa_b": 0.256,
+      "n01": 26,
+      "n10": 28,
+      "discordant": 54,
+      "mcnemar_p": 0.892
+    },
+    {
+      "pair": "p1_base vs p1_chunk256",
+      "fa_a": 0.264,
+      "fa_b": 0.26,
+      "n01": 1,
+      "n10": 2,
+      "discordant": 3,
+      "mcnemar_p": 1.0
+    },
+    {
+      "pair": "p1_base vs p1_chunk1024",
+      "fa_a": 0.264,
+      "fa_b": 0.268,
+      "n01": 1,
+      "n10": 0,
+      "discordant": 1,
+      "mcnemar_p": 1.0
+    }
+  ],
+  "spearman_recall_fa": {
+    "rho": 0.6584895930536608,
+    "p": 0.03842340187806441,
+    "n": 10
+  },
+  "spearman_recall_fa_k5": {
+    "rho": 0.490880693673816,
+    "p": 0.21676597114590274,
+    "n": 8
+  }
+}
