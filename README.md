@@ -1,9 +1,12 @@
 # Faithful or Silent? Evaluating Retrieval Design and Abstention Behavior in Medical Retrieval-Augmented Generation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22238849.svg)](https://doi.org/10.5281/zenodo.22238849)
+
 Code, results, and the certified unanswerable-question test artifact for the
 paper *"Faithful or Silent? Evaluating Retrieval Design and Abstention
 Behavior in Medical Retrieval-Augmented Generation"*
 (Sai Ruthvik Reddy Avuku, [ORCID 0009-0006-6282-6213](https://orcid.org/0009-0006-6282-6213)).
+Archived snapshot: [DOI 10.5281/zenodo.22238849](https://doi.org/10.5281/zenodo.22238849).
 arXiv link: **coming with the preprint**.
 
 ## What this measures
